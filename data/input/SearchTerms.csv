@@ -1,0 +1,571 @@
+Search Term,Total Unique Searches,Results Pageviews / Search,% Search Exits,% Search Refinements,Time after Search,Avg. Search Depth,Search Category (Phil),Search Category (Erik),Notes,Search Category,Second Category,Third Category,
+base map,1,2,0.00%,0.00%,0:00:18,1,datatype,datatype,,datatype,,,single
+basemap,1,3,0.00%,33.33%,0:00:11,0,datatype,datatype,,datatype,,,single
+basemaps,1,1,0.00%,100.00%,0:00:05,0,datatype,datatype,,datatype,,,single
+contour,1,2,0.00%,100.00%,0:00:11,2,datatype,datatype,,datatype,,,single
+contours,1,1,0.00%,100.00%,0:00:02,0,datatype,datatype,,datatype,,,single
+DEM,2,1,50.00%,50.00%,0:00:15,0,datatype,datatype,,datatype,,,single
+dem,1,1,0.00%,100.00%,0:13:51,1,datatype,datatype,,datatype,,,single
+Dem,1,3,100.00%,0.00%,0:08:53,0,datatype,datatype,,datatype,,,single
+digital elevation,1,1,0.00%,100.00%,0:00:10,0,datatype,topical,,datatype,,,single
+digital elevation model,1,1,100.00%,0.00%,0:00:00,0,datatype,topical,,datatype,,,single
+elevation,5,1.4,0.00%,42.86%,0:00:16,1,datatype,locational,,datatype,,,single
+hill shade,1,2,0.00%,100.00%,0:00:11,0,datatype,datatype,,datatype,,,single
+hillshade,1,2,0.00%,50.00%,0:00:05,1,datatype,datatype,,datatype,,,single
+lidar,1,1,0.00%,100.00%,0:00:04,0,datatype,datatype,,datatype,,,single
+NDVI,1,1,0.00%,100.00%,0:00:09,0,datatype,,,datatype,,,single
+photogrammetry,1,1,0.00%,0.00%,0:00:40,4,datatype,datatype,,datatype,,,single
+slope,1,1,0.00%,100.00%,0:00:06,0,datatype,topical,,datatype,,,single
+topo,2,2,0.00%,50.00%,0:00:50,7,datatype,datatype,,datatype,,,single
+topographic,1,2,0.00%,100.00%,0:00:24,2,datatype,datatype,,datatype,,,single
+geotiff,1,1,0.00%,0.00%,0:00:07,2,format,datatype,,format,,,single
+wms,1,1,0.00%,0.00%,0:00:56,4,format,,,format,,,single
+64 counties,1,2,0.00%,50.00%,0:00:17,0,locational,locational,,locational,,,single
+airports,1,1,100.00%,0.00%,0:00:00,0,locational,locational,,locational,,,single
+aquifer,1,2,100.00%,0.00%,0:00:08,1,locational,locational,,locational,,,single
+area zoning,1,1,0.00%,100.00%,0:00:21,0,locational,locational,,locational,,,single
+basins,1,2,0.00%,50.00%,0:10:50,0,locational,locational,,locational,,,single
+blocks,1,1,0.00%,0.00%,0:10:11,7,locational,topical,,locational,,,single
+blue ribbon streams,1,1,0.00%,100.00%,0:00:05,0,locational,placename,,locational,,,single
+boundaries,1,2,0.00%,100.00%,0:00:10,0,locational,locational,,locational,,,single
+breweries,1,1,0.00%,100.00%,0:00:04,1,locational,locational,,locational,,,single
+buiding,1,1,0.00%,100.00%,0:00:04,0,locational,locational,,locational,,,single
+building,2,1,0.00%,0.00%,0:06:29,1.5,locational,locational,,locational,,,single
+Building,2,1,0.00%,0.00%,0:00:11,1,locational,locational,,locational,,,single
+camp,4,1.25,50.00%,60.00%,0:00:03,0,locational,locational,,locational,,,single
+Camp,1,1,0.00%,100.00%,0:00:49,0,locational,locational,,locational,,,single
+campground,1,2,0.00%,50.00%,0:00:11,1,locational,locational,,locational,,,single
+camping,1,1,0.00%,100.00%,0:00:06,0,locational,locational,,locational,,,single
+campsites,1,1,0.00%,100.00%,0:00:11,1,locational,locational,,locational,,,single
+Campsites,1,1,0.00%,100.00%,0:00:03,0,locational,locational,,locational,,,single
+campus,1,1,0.00%,0.00%,0:00:39,7,locational,locational,,locational,,,single
+Campus,1,1,0.00%,100.00%,0:04:43,1,locational,locational,,locational,,,single
+canals,1,1,0.00%,0.00%,0:51:23,7,locational,locational,,locational,,,single
+cities,6,1.33,0.00%,25.00%,0:00:21,1,locational,locational,,locational,,,single
+city,1,2,0.00%,0.00%,0:00:20,2,locational,locational,,locational,,,single
+congressional,2,1,0.00%,100.00%,0:00:06,0,locational,locational,,locational,,,single
+counties,9,3.56,0.00%,28.12%,0:01:01,1,locational,locational,,locational,,,single
+countties,1,1,0.00%,100.00%,0:00:09,1,locational,locational,,locational,,,single
+county,5,2,20.00%,20.00%,0:00:19,1.6,locational,locational,,locational,,,single
+Crash,1,1,100.00%,0.00%,0:00:00,0,locational,locational,,locational,,,single
+creek,1,1,0.00%,0.00%,0:27:42,24,locational,locational,,locational,,,single
+dispenseries,1,1,0.00%,100.00%,0:00:12,0,locational,locational,,locational,,,single
+ditches,1,2,0.00%,0.00%,0:05:44,1,locational,locational,,locational,,,single
+dried up towns water,1,2,0.00%,100.00%,0:03:42,2,locational|topical,locational,,locational,topical,,combined
+ecoregion,1,1,0.00%,100.00%,0:00:07,0,locational,locational,,locational,,,single
+field,1,2,0.00%,0.00%,0:00:13,2,locational,locational,,locational,,,single
+Fire Departments,1,3,0.00%,66.67%,0:00:34,1,locational,locational,,locational,,,single
+floodplain,1,2,0.00%,50.00%,0:03:25,1,locational,locational,,locational,,,single
+fluvial planes,1,1,0.00%,100.00%,0:00:30,0,locational,locational,,locational,,,single
+food stores,1,1,0.00%,100.00%,0:00:14,1,locational,locational,,locational,,,single
+Food Stores,1,3,0.00%,33.33%,0:08:11,4,locational,locational,,locational,,,single
+forest,1,1,0.00%,100.00%,0:00:18,1,locational,locational,,locational,,,single
+Ghost town,1,1,0.00%,0.00%,0:00:10,1,locational,locational,,locational,,,single
+glacier,1,1,0.00%,100.00%,0:00:03,0,locational,locational,,locational,,,single
+glaciers,2,1,50.00%,50.00%,0:00:03,0.5,locational,locational,,locational,,,single
+grocery stores,1,1,0.00%,100.00%,0:00:10,0,locational,locational,,locational,,,single
+Grocery stores,1,1,0.00%,100.00%,0:00:10,0,locational,locational,,locational,,,single
+ground water,1,2,0.00%,50.00%,0:00:36,1,locational,locational,,locational,,,single
+groundwater,2,1,0.00%,100.00%,0:00:04,0,locational,locational,,locational,,,single
+Highway,1,1,0.00%,100.00%,0:00:28,1,locational,locational,,locational,,,single
+highway crossing,1,5,0.00%,20.00%,0:02:35,2,locational,locational,,locational,,,single
+highways,6,1,0.00%,83.33%,0:01:48,0.33,locational,locational,,locational,,,single
+Hospitals,1,4,0.00%,25.00%,0:01:39,5,locational,locational,,locational,,,single
+houses,1,4,0.00%,25.00%,0:26:34,1,locational,locational,,locational,,,single
+Houses with more than 4 bedrooms,1,3,0.00%,0.00%,0:00:12,1,locational|topical,locational,,locational,topical,,combined
+indigineous land,1,3,0.00%,66.67%,0:00:09,0,locational,locational,,locational,,,single
+indigineous pipelines,1,1,0.00%,100.00%,0:00:02,0,locational,locational,,locational,,,single
+Industrial land zoning,1,1,100.00%,0.00%,0:00:00,0,locational,locational,,locational,,,single
+industrial zoning,1,1,0.00%,100.00%,0:00:05,0,locational,locational,,locational,,,single
+industry area zoning,1,1,0.00%,100.00%,0:00:05,0,locational,locational,,locational,,,single
+industry zoning,1,1,0.00%,100.00%,0:00:09,0,locational,locational,,locational,,,single
+invasive trees,1,1,0.00%,100.00%,0:00:03,0,locational,locational,,locational,,,single
+lakes,5,1.4,20.00%,57.14%,0:02:15,0.4,locational,locational,,locational,,,single
+landslide,1,11,0.00%,0.00%,0:04:24,12,locational,locational,,locational,,,single
+legistlative districts,1,1,0.00%,100.00%,0:00:03,0,locational,locational,,locational,,,single
+libraries,1,2,0.00%,50.00%,0:00:41,1,locational,locational,,locational,,,single
+library,2,1,0.00%,50.00%,0:02:35,2.5,locational,locational,,locational,,,single
+Licensed Daycare Facilities,1,5,0.00%,20.00%,0:01:30,5,locational,locational,,locational,,,single
+markets,1,1,0.00%,100.00%,0:00:08,0,locational,locational,,locational,,,single
+mine,5,1.6,20.00%,50.00%,0:02:10,2.2,locational,locational,,locational,,,single
+mountains,1,1,100.00%,0.00%,0:00:00,0,locational,locational,,locational,,,single
+national park,1,1,0.00%,100.00%,0:18:57,2,locational,locational,,locational,,,single
+National park,1,3,100.00%,0.00%,0:00:22,0,locational,locational,,locational,,,single
+national parks,1,2,0.00%,50.00%,0:02:05,2,locational,locational,,locational,,,single
+native land,1,2,0.00%,50.00%,0:00:14,1,locational,locational,,locational,,,single
+open space,2,1,0.00%,50.00%,0:12:43,0.5,locational,locational,,locational,,,single
+orchard,1,1,0.00%,100.00%,0:00:06,1,locational,locational,,locational,,,single
+parcel,1,1,0.00%,0.00%,0:00:30,2,locational,topical,,locational,,,single
+parcels,1,1,100.00%,0.00%,0:00:00,0,locational,topical,,locational,,,single
+park,1,16,100.00%,0.00%,0:01:38,7,locational,locational,,locational,,,single
+parks,4,2.5,25.00%,0.00%,0:00:23,1,locational,locational,,locational,,,single
+peaks,1,1,0.00%,100.00%,0:00:15,0,locational,locational,,locational,,,single
+places,1,1,0.00%,100.00%,0:00:03,0,locational,topical,,locational,,,single
+Police Departments,1,2,0.00%,50.00%,0:00:11,0,locational,locational,,locational,,,single
+polluted area zoning,1,1,0.00%,100.00%,0:00:09,0,locational,locational,,locational,,,single
+Precinct,1,3,0.00%,0.00%,0:00:43,4,locational,locational,,locational,,,single
+precints,1,1,0.00%,100.00%,0:00:05,0,locational,locational,,locational,,,single
+protected lands,1,1,100.00%,0.00%,0:00:00,0,locational,locational,,locational,,,single
+public lands,1,4,100.00%,0.00%,0:00:12,0,locational,locational,,locational,,,single
+raods,1,1,0.00%,100.00%,0:00:04,0,locational,locational,,locational,,,single
+reservations,1,1,100.00%,0.00%,0:00:00,0,locational,locational,,locational,,,single
+reservoirs,1,1,0.00%,0.00%,0:00:38,3,locational,locational,,locational,,,single
+riparian,1,2,0.00%,50.00%,0:06:15,1,locational,locational,,locational,,,single
+river,4,1,0.00%,75.00%,0:06:44,0.25,locational,locational,,locational,,,single
+River,1,1,0.00%,100.00%,0:01:36,5,locational,locational,,locational,,,single
+rivers,9,3.44,22.22%,29.03%,0:01:35,1.44,locational,locational,,locational,,,single
+Rivers,1,2,0.00%,50.00%,0:00:44,2,locational,locational,,locational,,,single
+road,2,2,0.00%,50.00%,0:08:34,2,locational,locational,,locational,,,single
+Road,1,1,0.00%,0.00%,0:00:05,1,locational,locational,,locational,,,single
+Roads,1,2,0.00%,50.00%,0:02:56,2,locational,locational,,locational,,,single
+ROADS,1,1,0.00%,100.00%,0:00:07,0,locational,locational,,locational,,,single
+schools,2,1.5,0.00%,33.33%,0:03:32,0.5,locational,locational,,locational,,,single
+sinkholes,1,2,0.00%,50.00%,0:00:05,1,locational,locational,,locational,,,single
+south,1,1,0.00%,100.00%,0:08:36,0,locational,locational,,locational,,,single
+south facing,1,1,0.00%,100.00%,0:00:04,0,locational,locational,,locational,,,single
+south slope,1,1,0.00%,100.00%,0:09:44,0,locational,locational,,locational,,,single
+special trout water,1,1,0.00%,100.00%,0:00:02,0,locational,locational,,locational,,,single
+Springs,1,2,100.00%,0.00%,0:00:10,0,locational,locational,,locational,,,single
+state,1,3,100.00%,0.00%,0:00:19,0,locational,locational,,locational,,,single
+Statewide Fire Department,1,2,0.00%,100.00%,0:00:06,0,locational,topical,,locational,,,single
+Statewide Fire Departments,1,6,0.00%,33.33%,0:00:23,0,locational,topical,,locational,,,single
+stream,5,1.8,0.00%,55.56%,0:00:35,1,locational,locational,,locational,,,single
+stream watershed,1,1,0.00%,100.00%,0:00:03,0,locational,locational,,locational,,,single
+streams,17,1.94,5.88%,45.45%,0:02:21,1.71,locational,locational,,locational,,,single
+streams and rivers,1,1,0.00%,100.00%,0:00:06,0,locational,locational,,locational,,,single
+street,2,1.5,50.00%,0.00%,0:00:17,1,locational,locational,,locational,,,single
+summits,1,1,0.00%,100.00%,0:00:08,0,locational,locational,,locational,,,single
+supermarkets,1,1,0.00%,100.00%,0:00:07,0,locational,locational,,locational,,,single
+towns,2,4,0.00%,25.00%,0:02:59,2,locational,locational,,locational,,,single
+towns that disappeard because of water,1,2,0.00%,100.00%,0:00:08,0,locational|topical,topical,,locational,topical,,combined
+township,1,1,0.00%,0.00%,0:00:04,1,locational,locational,,locational,,,single
+tract,1,2,0.00%,50.00%,0:06:56,4,locational,publication,,locational,,,single
+tracts,3,2,0.00%,50.00%,0:03:09,1.67,locational,publication,,locational,,,single
+trail,1,2,0.00%,50.00%,0:02:02,1,locational,locational,,locational,,,single
+trailhead,1,2,0.00%,50.00%,0:00:28,1,locational,locational,,locational,,,single
+trails,8,1.62,12.50%,15.38%,0:03:33,1.5,locational,locational,,locational,,,single
+tunnel,3,1,0.00%,100.00%,0:00:49,0.67,locational,locational,,locational,,,single
+tunnels,2,1.5,0.00%,66.67%,0:00:06,0,locational,locational,,locational,,,single
+Tunnels,1,1,0.00%,100.00%,0:02:33,6,locational,locational,,locational,,,single
+uranium mining,1,2,0.00%,50.00%,0:25:29,3,locational,locational,,locational,,,single
+water and santiation districts,1,1,0.00%,100.00%,0:00:35,2,locational,locational,,locational,,,single
+Water basin,1,2,0.00%,50.00%,0:00:06,1,locational,locational,,locational,,,single
+water towns,1,2,0.00%,100.00%,0:00:29,2,locational,locational,,locational,,,single
+watershed,8,1.25,25.00%,50.00%,0:00:12,0.38,locational,locational,,locational,,,single
+watersheds,6,1.33,0.00%,50.00%,0:01:42,0.67,locational,locational,,locational,,,single
+well,1,2,100.00%,0.00%,0:00:15,0,locational,locational,,locational,,,single
+wells,3,1.33,66.67%,25.00%,0:00:07,1,locational,locational,,locational,,,single
+wilderness,1,1,0.00%,100.00%,0:00:09,0,locational,locational,,locational,,,single
+wildlife collisions,1,1,0.00%,100.00%,0:00:06,0,locational,locational,,locational,,,single
+wildlife vehicle,1,2,0.00%,0.00%,0:02:15,2,locational,topical,,locational,,,single
+zip,1,1,0.00%,100.00%,0:00:05,0,locational,locational,,locational,,,single
+zip code,1,1,0.00%,100.00%,0:00:58,1,locational,locational,,locational,,,single
+zip codes,2,1,0.00%,100.00%,0:00:33,0,locational,locational,,locational,,,single
+zoning,1,4,0.00%,50.00%,0:02:07,2,locational,locational,,locational,,,single
+Blm,1,3,0.00%,33.33%,0:00:58,1,organization,organization,,organization,,,single
+cdot,1,2,0.00%,50.00%,0:00:22,1,organization,organization,,organization,,,single
+CDOT,1,2,0.00%,0.00%,0:00:06,1,organization,organization,,organization,,,single
+census,11,1.73,18.18%,36.84%,0:03:02,0.91,organization|publication,publication,,organization,publication,,combined
+colorado dola,1,6,0.00%,33.33%,0:01:26,2,organization,locational,,organization,,,single
+colorado DOLA,1,2,0.00%,0.00%,0:00:13,1,organization,locational,,organization,,,single
+Colorado DOLA,1,3,0.00%,33.33%,0:02:29,1,organization,locational,,organization,,,single
+DRCOG,1,1,0.00%,0.00%,0:00:03,1,organization,organization,,organization,,,single
+EPA fines,1,1,0.00%,100.00%,0:00:20,1,organization|publication,locational,,organization,publication,,combined
+fema,1,1,0.00%,0.00%,0:00:38,1,organization,topical,,organization,,,single
+national forest service,1,1,0.00%,100.00%,0:01:24,0,organization,topical,,organization,,,single
+sanborn,2,1.5,50.00%,0.00%,0:00:04,0.5,organization,topical,,organization,,,single
+sanborne,1,1,0.00%,100.00%,0:00:07,0,organization,topical,,organization,,,single
+usfs,1,1,0.00%,100.00%,0:00:09,0,organization,topical,,organization,,,single
+paul weimer,1,1,0.00%,100.00%,0:00:13,1,person,person,,person,,,single
+80220,1,1,0.00%,0.00%,0:00:53,5,placename,placename,,placename,,,single
+80304,1,1,0.00%,100.00%,0:00:13,0,placename,placename,,placename,,,single
+80403,1,1,0.00%,100.00%,0:00:25,0,placename,placename,,placename,,,single
+"""san isabel""",1,1,0.00%,100.00%,0:00:04,0,placename,placename,,placename,,,single
+1743 ridge rd,1,1,0.00%,0.00%,0:00:25,3,placename,placename,,placename,,,single
+"777 s wadsworth blvd, co",1,1,0.00%,100.00%,0:00:14,3,placename,placename,,placename,,,single
+alamosa,2,1,0.00%,100.00%,0:00:08,0.5,placename,placename,,placename,,,single
+alaska,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+All schools in colorado,2,2,0.00%,50.00%,0:00:21,0,placename|locational,locational|placename,,placename,locational,,combined
+arapahoe,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+arapahoe county ditch,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Arkansas river,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+asia,1,1,0.00%,0.00%,0:00:02,1,placename,placename,,placename,,,single
+aspen,2,1,0.00%,100.00%,0:00:11,0.5,placename,placename,,placename,,,single
+Aurora,1,5,0.00%,20.00%,0:00:07,0,placename,placename,,placename,,,single
+Aurora CO,1,2,0.00%,50.00%,0:01:32,13,placename,topical,,placename,,,single
+bierstadt lake,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+bolder,1,2,0.00%,100.00%,0:00:11,0,placename,placename,,placename,,,single
+boluder,1,1,0.00%,100.00%,0:00:04,0,placename,placename,,placename,,,single
+boulder,16,5.44,25.00%,9.20%,0:03:50,2.12,placename,placename,,placename,,,single
+Boulder,2,6,0.00%,0.00%,0:01:39,4.5,placename,placename,,placename,,,single
+boulder buildings,1,1,0.00%,0.00%,0:00:02,1,placename,placename,,placename,,,single
+boulder campus,1,1,0.00%,100.00%,0:00:09,1,placename,placename,,placename,,,single
+boulder contour,1,1,0.00%,100.00%,0:29:38,0,placename|datatype,placename|datatype,,placename,datatype,,combined
+Boulder county,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Boulder County,1,3,100.00%,0.00%,0:06:22,1,placename,placename,,placename,,,single
+Boulder county buildings,1,2,0.00%,50.00%,0:00:43,1,placename|locational,placename,,placename,locational,,combined
+Boulder County geolgy,1,1,0.00%,100.00%,0:00:06,0,placename|topical,placename|topical,,placename,topical,,combined
+Boulder County geology,1,1,0.00%,100.00%,0:00:06,0,placename|topical,placename|topical,,placename,topical,,combined
+boulder creek,2,1.5,0.00%,100.00%,0:00:09,0,placename,placename,,placename,,,single
+BOULDER CREEK,1,2,0.00%,50.00%,0:00:19,1,placename,placename,,placename,,,single
+Boulder Creeks,1,1,0.00%,100.00%,0:00:09,0,placename|locational,placename,,placename,locational,,combined
+BOULDER FIRE STATIONS,1,1,0.00%,0.00%,0:00:05,1,placename|locational,placename|locational,,placename,locational,,combined
+boulder forest,1,2,100.00%,0.00%,0:00:13,1,placename|locational,placename|locational,,placename,locational,,combined
+Boulder land use,1,1,0.00%,100.00%,0:00:21,3,placename|topical,placename|topical,,placename,topical,,combined
+boulder land-use,1,5,0.00%,20.00%,0:01:53,6,placename|topical,placename|topical,,placename,topical,,combined
+boulder lidar,1,1,0.00%,100.00%,0:00:03,0,placename|datatype,placename|topical,,placename,datatype,,combined
+boulder roads,2,1,0.00%,50.00%,0:03:17,1,placename|locational,placename|locational,,placename,locational,,combined
+boulder rock formation,1,1,0.00%,100.00%,0:00:08,0,placename|topical,placename|topical,,placename,topical,,combined
+Boulder streams,1,2,0.00%,50.00%,0:00:54,1,placename|locational,placename|locational,,placename,locational,,combined
+boulder topography,1,3,0.00%,66.67%,0:00:13,1,placename|datatype,placename|locational,,placename,datatype,,combined
+"boulder, co",2,1,50.00%,50.00%,0:00:06,0.5,placename,placename,,placename,,,single
+"Boulder, Colorado",1,5,0.00%,20.00%,0:09:58,2,placename,placename,,placename,,,single
+buildings in boulder,1,1,0.00%,0.00%,0:00:49,1,placename|locational,placename|locational,,placename,locational,,combined
+Chernobyl,1,1,0.00%,0.00%,0:51:22,19,placename,placename,,placename,,,single
+china,3,1.67,0.00%,40.00%,0:01:06,2.67,placename,placename,,placename,,,single
+coal creek,1,1,0.00%,100.00%,0:00:08,0,placename,placename,,placename,,,single
+colorado,17,5.71,35.29%,1.03%,0:06:33,2.29,placename,placename,,placename,,,single
+Colorado,3,3.33,0.00%,0.00%,0:05:30,3.67,placename,placename,,placename,,,single
+COLORADO,1,7,0.00%,0.00%,0:01:12,6,placename,placename,,placename,,,single
+colorado cities,1,1,0.00%,0.00%,0:00:02,1,placename|locational,locational,,placename,locational,,combined
+Colorado cities,1,2,0.00%,100.00%,0:01:09,3,placename|locational,locational,,placename,locational,,combined
+colorado counties,3,1.67,0.00%,60.00%,0:01:02,1,placename|locational,locational,,placename,locational,,combined
+colorado county,1,3,100.00%,0.00%,0:00:24,2,placename|locational,locational,,placename,locational,,combined
+colorado dams,1,1,0.00%,100.00%,0:00:06,0,placename|locational,locational,,placename,locational,,combined
+colorado geologic map,1,1,0.00%,0.00%,0:00:06,1,placename|datatype,datatype,,placename,datatype,,combined
+Colorado Geology,2,1,0.00%,0.00%,0:00:05,1,placename|topical,placename|topical,,placename,topical,,combined
+colorado geology,1,1,0.00%,0.00%,0:00:03,1,placename|topical,placename|topical,,placename,topical,,combined
+colorado houses,1,2,0.00%,50.00%,0:01:30,3,placename|locational,locational,,placename,locational,,combined
+Colorado Hwy 285,1,1,0.00%,100.00%,0:02:12,3,placename,placename,,placename,,,single
+Colorado land owndership,1,1,0.00%,100.00%,0:00:12,0,placename|topical,locational,,placename,topical,,combined
+Colorado land types,1,3,0.00%,66.67%,0:09:08,2,placename|topical,topical,,placename,topical,,combined
+Colorado land use type,1,1,0.00%,100.00%,0:00:13,0,placename|topical,topical,,placename,topical,,combined
+Colorado major cities,1,2,0.00%,100.00%,0:14:59,2,placename|locational,locational,,placename,locational,,combined
+colorado Mining Claims,1,1,0.00%,0.00%,0:04:01,2,placename|locational,locational,,placename,locational,,combined
+colorado reservoir levels,1,2,0.00%,50.00%,0:00:19,1,placename|topical,topical,,placename,topical,,combined
+colorado reservoirs,1,1,0.00%,100.00%,0:00:15,0,placename|locational,locational,,placename,locational,,combined
+Colorado river,2,2.5,0.00%,40.00%,0:01:06,3,placename,placename,,placename,,,single
+Colorado River basin,1,1,0.00%,100.00%,0:06:42,0,placename,placename,,placename,,,single
+Colorado River reservoirs,1,1,0.00%,100.00%,0:00:11,0,placename|locational,locational,,placename,locational,,combined
+Colorado River reservoirs levels,1,1,0.00%,100.00%,0:00:33,1,placename|topical,topical,,placename,topical,,combined
+Colorado roads,1,2,0.00%,50.00%,0:01:50,5,placename|locational,locational,,placename,locational,,combined
+colorado satelite,1,2,0.00%,100.00%,0:00:11,0,placename|datatype,topical,,placename,datatype,,combined
+colorado satellite,1,1,0.00%,100.00%,0:00:09,0,placename|datatype,topical,,placename,datatype,,combined
+Colorado secondary roads,1,1,0.00%,100.00%,0:00:05,0,placename|locational,locational,,placename,locational,,combined
+colorado springs,1,1,0.00%,100.00%,0:00:11,1,placename,placename,,placename,,,single
+colorado state,1,2,0.00%,50.00%,0:02:50,2,placename,placename,,placename,,,single
+Colorado stream access,1,1,0.00%,100.00%,0:00:07,0,placename|locational,locational,,placename,locational,,combined
+Colorado streams,2,2,0.00%,25.00%,0:05:18,4.5,placename|locational,locational,,placename,locational,,combined
+colorado streams,1,1,0.00%,100.00%,0:00:05,0,placename|locational,locational,,placename,locational,,combined
+Colorado Streams,1,1,0.00%,0.00%,0:02:17,1,placename|locational,locational,,placename,locational,,combined
+colorado trail,1,1,0.00%,0.00%,0:00:06,1,placename,placename,,placename,,,single
+Colorado trail,1,1,0.00%,0.00%,0:00:34,1,placename,placename,,placename,,,single
+colorado triassic,1,1,0.00%,100.00%,0:00:12,0,placename|topical,topical,,placename,topical,,combined
+colorado triassic age,1,1,0.00%,100.00%,0:00:05,0,placename|topical,topical,,placename,topical,,combined
+colorado usa,1,1,0.00%,0.00%,0:00:04,2,placename,placename,,placename,,,single
+colorado water,1,6,0.00%,0.00%,0:05:31,3,placename|locational,locational,,placename,locational,,combined
+Coloradocounties,1,1,0.00%,100.00%,0:00:05,0,placename|locational,locational,,placename,locational,,combined
+ColoradoWater basin,1,2,0.00%,100.00%,0:00:06,0,placename|locational,locational,,placename,locational,,combined
+coloraod reservoirs,1,1,0.00%,100.00%,0:00:06,0,placename|locational,locational,,placename,locational,,combined
+Coloraod roads,1,1,0.00%,100.00%,0:00:08,0,placename|locational,locational,,placename,locational,,combined
+colroado rocky mountains,1,2,0.00%,100.00%,0:01:24,6,placename,placename,,placename,,,single
+Continental divide,1,2,0.00%,0.00%,0:03:04,9,placename,placename,,placename,,,single
+CU,1,1,0.00%,100.00%,0:06:18,7,placename,placename,,placename,,,single
+CU Boulder,1,1,0.00%,100.00%,0:00:05,0,placename,placename,,placename,,,single
+denver,3,1.67,66.67%,40.00%,0:00:14,0.33,placename,placename,,placename,,,single
+Denver,2,1.5,50.00%,0.00%,0:01:36,3,placename,placename,,placename,,,single
+denver topogrpahy,1,1,100.00%,0.00%,0:00:00,0,placename|datatype,topical,,placename,datatype,,combined
+Elyria Swansea,1,1,0.00%,0.00%,0:01:00,3,placename,placename,,placename,,,single
+estes,1,1,0.00%,100.00%,0:00:34,0,placename,placename,,placename,,,single
+fancy lake,1,1,0.00%,0.00%,0:00:17,2,placename,placename,,placename,,,single
+florida,1,1,0.00%,100.00%,0:00:02,0,placename,placename,,placename,,,single
+Flying J Ranch,1,2,0.00%,50.00%,0:00:13,0,placename,placename,,placename,,,single
+"Flying J Ranch, Conifer",1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Georgia,1,1,0.00%,0.00%,0:03:03,18,placename,placename,,placename,,,single
+giplin county,1,2,100.00%,0.00%,0:00:05,0,placename,placename,,placename,,,single
+glenwood springs,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+golden,1,2,0.00%,50.00%,0:00:08,2,placename,placename,,placename,,,single
+Grand Canyon,1,1,0.00%,0.00%,0:00:11,1,placename,placename,,placename,,,single
+grand county,1,1,0.00%,100.00%,0:00:05,0,placename,placename,,placename,,,single
+gunnison river basin,1,3,0.00%,0.00%,0:30:11,3,placename,placename,,placename,,,single
+Haiti,1,2,100.00%,0.00%,0:00:03,0,placename,placename,,placename,,,single
+Hamburg,1,1,0.00%,0.00%,0:13:42,17,placename,placename,,placename,,,single
+"Hamburg, Michigan",1,1,0.00%,100.00%,0:00:06,1,placename,placename,,placename,,,single
+hong kong,2,1.5,0.00%,66.67%,0:00:05,0.5,placename,placename,,placename,,,single
+Hwy 285 historical map,1,1,0.00%,100.00%,0:00:15,1,placename|format,placename,,placename,format,,combined
+Hwy 285 map,1,1,0.00%,100.00%,0:00:15,1,placename|format,placename,,placename,format,,combined
+iceland,1,1,0.00%,0.00%,0:00:09,1,placename,placename,,placename,,,single
+iran,1,1,0.00%,100.00%,0:00:23,1,placename,placename,,placename,,,single
+jefferson county,1,2,0.00%,0.00%,0:00:41,3,placename,placename,,placename,,,single
+lake powell,1,1,0.00%,100.00%,0:00:08,1,placename,placename,,placename,,,single
+"lakewood, colorado",1,1,0.00%,100.00%,0:00:05,0,placename,placename,,placename,,,single
+land types of Colorado,1,1,0.00%,100.00%,0:00:44,0,placename|topical,topical,,placename,topical,,combined
+larimer county,2,1,0.00%,50.00%,0:01:32,4,placename,placename,,placename,,,single
+larimer county colorado,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Las Vegas,1,1,0.00%,100.00%,0:00:06,0,placename,placename,,placename,,,single
+"leadville, CO",1,1,0.00%,0.00%,0:00:16,2,placename,placename,,placename,,,single
+longmount,1,2,0.00%,50.00%,0:00:09,1,placename,placename,,placename,,,single
+louisana,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Loveland,1,1,0.00%,0.00%,0:00:02,1,placename,placename,,placename,,,single
+Lubbock TX,1,1,0.00%,100.00%,0:00:20,1,placename,placename,,placename,,,single
+Mancos,1,1,0.00%,100.00%,0:00:37,1,placename,placename,,placename,,,single
+"Mancos, CO",1,1,0.00%,100.00%,0:00:16,1,placename,placename,,placename,,,single
+mars,1,1,0.00%,0.00%,0:02:05,12,placename,placename,,placename,,,single
+mcbroom ditch,1,1,0.00%,100.00%,0:00:10,1,placename,placename,,placename,,,single
+mesa colorado,1,1,0.00%,100.00%,0:00:12,1,placename,placename,,placename,,,single
+Mesa Verde,1,1,0.00%,0.00%,0:09:02,46,placename,placename,,placename,,,single
+"mesa, co",1,1,0.00%,0.00%,0:02:31,7,placename,placename,,placename,,,single
+mines colorado,1,1,0.00%,0.00%,0:00:05,1,placename|locational,locational,,placename,locational,,combined
+monument co,1,2,0.00%,50.00%,0:00:17,2,placename,placename,,placename,,,single
+mt. saint helens,1,1,0.00%,100.00%,0:00:14,1,placename,placename,,placename,,,single
+nebraska streams,1,2,0.00%,0.00%,0:26:54,5,placename|locational,locational,,placename,locational,,combined
+nederland,1,1,0.00%,0.00%,0:01:27,4,placename,placename,,placename,,,single
+nepal,2,1,50.00%,50.00%,0:00:12,2.5,placename,placename,,placename,,,single
+nevada,1,1,0.00%,0.00%,0:00:09,1,placename,placename,,placename,,,single
+odessa lake,1,1,0.00%,100.00%,0:01:07,3,placename,placename,,placename,,,single
+oregon state,1,1,0.00%,100.00%,0:00:17,0,placename,placename,,placename,,,single
+ouarzazte,1,1,0.00%,0.00%,0:00:22,3,placename,,,placename,,,single
+pachitea,1,1,0.00%,0.00%,0:00:01,1,placename,,,placename,,,single
+PACIFIC OCEAN,1,2,0.00%,50.00%,0:00:27,3,placename,placename,,placename,,,single
+petersburg colorado,1,1,0.00%,100.00%,0:00:06,0,placename,placename,,placename,,,single
+phoenix az,1,2,0.00%,50.00%,0:00:17,1,placename,placename,,placename,,,single
+Pike San Isabel National Forest,1,1,0.00%,100.00%,0:00:02,0,placename,placename,,placename,,,single
+Pike San Isabell National Forest,1,1,0.00%,0.00%,0:39:29,43,placename,placename,,placename,,,single
+pitkin,1,4,100.00%,0.00%,0:02:51,2,placename,placename,,placename,,,single
+plutonium and new mexico,1,1,0.00%,0.00%,0:00:06,1,placename|topical,topical|placename,,placename,topical,,combined
+Puget Sound,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Rio Grande Natural Area,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Rmnp,1,1,0.00%,100.00%,0:00:08,1,placename,placename,,placename,,,single
+rocky mountain,1,1,0.00%,0.00%,0:06:31,20,placename,placename,,placename,,,single
+Rocky mountain,1,1,0.00%,100.00%,0:00:08,0,placename,placename,,placename,,,single
+Rocky Mountain National Park,1,1,0.00%,0.00%,0:04:15,22,placename,placename,,placename,,,single
+Rocky mountains,1,2,0.00%,50.00%,0:00:09,1,placename,placename,,placename,,,single
+Rocky Point,1,1,0.00%,100.00%,0:00:06,0,placename,placename,,placename,,,single
+San Isabel National Forest,1,2,0.00%,50.00%,0:01:14,37,placename,placename,,placename,,,single
+san juan,1,2,0.00%,0.00%,0:01:02,5,placename,placename,,placename,,,single
+san juan river,1,1,0.00%,0.00%,0:00:33,1,placename,placename,,placename,,,single
+sheridan colorado,2,1,0.00%,100.00%,0:00:10,0,placename,placename,,placename,,,single
+sitka,1,1,0.00%,100.00%,0:00:07,0,placename,placename,,placename,,,single
+skamania county,1,1,0.00%,100.00%,0:00:04,0,placename,placename,,placename,,,single
+Sudan,1,1,0.00%,100.00%,0:01:52,12,placename,placename,,placename,,,single
+taiwan,1,1,0.00%,0.00%,0:00:03,1,placename,placename,,placename,,,single
+texas,2,1.5,0.00%,0.00%,0:11:19,2,placename,placename,,placename,,,single
+triassic outcrops in colorado,1,1,0.00%,100.00%,0:00:31,0,placename|locational,topical,,placename,locational,,combined
+University of Colorado Boulder Campus Map,1,1,0.00%,0.00%,0:00:04,1,placename|format,placename,,placename,format,,combined
+utah,1,1,0.00%,0.00%,0:00:16,2,placename,placename,,placename,,,single
+utah basemap,1,1,0.00%,100.00%,0:00:04,0,placename|datatype,placename,,placename,datatype,,combined
+WA City shape border file,1,1,0.00%,0.00%,0:00:45,2,placename|datatype,placename|datatype,,placename,datatype,,combined
+WA City shape border file\,1,1,0.00%,100.00%,0:00:03,0,placename|datatype,placename|datatype,,placename,datatype,,combined
+washington,2,2.5,50.00%,0.00%,0:00:45,1.5,placename,placename,,placename,,,single
+Washington State Water,1,1,0.00%,100.00%,0:00:04,0,placename|locational,locational,,placename,locational,,combined
+Washington State Waterway,1,1,0.00%,100.00%,0:00:03,0,placename|locational,locational,,placename,locational,,combined
+Washington State Waterways,1,1,0.00%,100.00%,0:00:04,0,placename|locational,locational,,placename,locational,,combined
+Washington Water,1,1,0.00%,100.00%,0:00:04,0,placename|locational,locational,,placename,locational,,combined
+weld county colorado,1,1,0.00%,0.00%,0:00:02,1,placename,placename,,placename,,,single
+wyoming,1,1,100.00%,0.00%,0:00:00,0,placename,placename,,placename,,,single
+Yellowstone,3,1,0.00%,33.33%,0:02:32,15,placename,placename,,placename,,,single
+Blm roads,1,1,0.00%,100.00%,0:00:05,0,publication,publication,,publication,,,single
+census 2010,2,2,0.00%,50.00%,0:07:56,1,publication,publication,,publication,,,single
+Census 2010,2,1,0.00%,50.00%,0:00:13,0.5,publication,publication,,publication,,,single
+"Census 2010, Colorado, Current Census Tracked (2017 revision)",1,1,0.00%,0.00%,0:00:05,1,publication,publication,,publication,,,single
+"Census 2010, Colorado, Current Census Tract",1,1,0.00%,0.00%,0:00:07,1,publication,publication,,publication,,,single
+"Census 2010, Colorado, Current Census Tract (2017 revision)",3,1,0.00%,0.00%,0:00:07,1,publication,publication,,publication,,,single
+"census 2010, colorado, current census tract (2017 revision)",1,1,0.00%,100.00%,0:05:39,2,publication,publication,,publication,,,single
+"census 2010, Colorado, Current Census Tract (2017 revision)",1,1,0.00%,0.00%,0:00:05,1,publication,publication,,publication,,,single
+"census 2010, colorado, current census tract 2017",1,1,0.00%,0.00%,0:00:59,1,publication,publication,,publication,,,single
+"Census 2012, Colorado, Current Census Tracked (2017 revision)",1,1,0.00%,100.00%,0:00:06,0,publication,publication,,publication,,,single
+census data,1,2,0.00%,100.00%,0:00:06,0,publication,topical,,publication,,,single
+census tract shapefile,1,1,0.00%,100.00%,0:00:54,2,publication|format,datatype,,publication,format,,combined
+census tracts,4,2,0.00%,37.50%,0:00:27,1.25,publication,publication,,publication,,,single
+colorado dola - water and sanitation districts,1,2,0.00%,50.00%,0:01:56,1,publication,locational,,publication,,,single
+colorado DOLA - water and sanitation districts,1,1,0.00%,100.00%,0:04:09,2,publication,locational,,publication,,,single
+Colorado DOLA - Water and Sanitation Districts,1,2,0.00%,50.00%,0:04:39,1,publication,locational,,publication,,,single
+Colorado DOLA- Water and Sanitation Districts,3,2,0.00%,50.00%,0:03:02,1,publication,locational,,publication,,,single
+Colorado DOLA- water and sanitation districts,1,2,0.00%,50.00%,0:03:17,1,publication,locational,,publication,,,single
+Colorado Geo library,1,1,0.00%,100.00%,0:00:02,0,publication,,,publication,,,single
+Colorado Geolibrary,1,2,0.00%,100.00%,0:00:54,1,publication,,,publication,,,single
+cotrex,1,3,100.00%,33.33%,0:02:47,1,publication,organization,,publication,,,single
+COTREX,1,1,100.00%,0.00%,0:00:00,0,publication,organization,,publication,,,single
+Current Census Tract,1,1,0.00%,0.00%,0:00:03,1,publication,publication,,publication,,,single
+nlcd,1,2,0.00%,50.00%,0:00:30,1,publication,,,publication,,,single
+zcta,1,1,0.00%,100.00%,0:00:03,0,publication,,,publication,,,single
+200 million years,1,1,100.00%,0.00%,0:00:00,0,topical,topical,,topical,,,single
+accidents,1,1,0.00%,100.00%,0:00:06,0,topical,topical,,topical,,,single
+agriculture,1,1,0.00%,0.00%,0:00:06,1,topical,topical,,topical,,,single
+airport,1,3,0.00%,0.00%,0:00:31,3,topical,topical,,topical,,,single
+aliens,1,1,0.00%,100.00%,0:00:22,1,topical,topical,,topical,,,single
+apis mellifera,1,1,100.00%,0.00%,0:00:00,0,topical,topical,,topical,,,single
+apple,2,1,0.00%,100.00%,0:00:12,0.5,topical,topical,,topical,,,single
+bald eagle,1,1,0.00%,100.00%,0:00:21,0,topical,topical,,topical,,,single
+bat,1,1,0.00%,100.00%,0:00:19,0,topical,topical,,topical,,,single
+bear,5,1.8,0.00%,22.22%,0:07:20,7.4,topical,topical,,topical,,,single
+Bear,1,1,0.00%,0.00%,0:01:53,3,topical,topical,,topical,,,single
+bears,2,1.5,0.00%,33.33%,0:02:26,5,topical,topical,,topical,,,single
+beer,1,1,0.00%,100.00%,0:00:04,1,topical,topical,,topical,,,single
+bees,1,1,0.00%,100.00%,0:00:05,1,topical,topical,,topical,,,single
+bicycle,1,2,0.00%,100.00%,0:00:07,0,topical,topical,,topical,,,single
+bicycle ridership,1,2,0.00%,50.00%,0:00:03,1,topical,topical,,topical,,,single
+bison,2,1,0.00%,100.00%,0:00:08,0,topical,topical,,topical,,,single
+black tailed prairie dog,1,1,0.00%,100.00%,0:00:21,1,topical,topical,,topical,,,single
+blight,1,1,0.00%,100.00%,0:00:15,1,topical,topical,,topical,,,single
+bllight,1,1,0.00%,100.00%,0:00:06,0,topical,topical,,topical,,,single
+building footprints,1,1,100.00%,0.00%,0:00:00,0,topical,topical,,topical,,,single
+building height,1,1,0.00%,0.00%,0:03:40,2,topical,locational,,topical,,,single
+buildings,8,3.88,25.00%,6.45%,0:06:04,2.88,topical,topical,,topical,,,single
+carbon,1,1,0.00%,100.00%,0:04:14,14,topical,topical,,topical,,,single
+caribou,2,1,0.00%,100.00%,0:00:45,0,topical,topical,,topical,,,single
+cats,1,1,0.00%,100.00%,0:00:04,0,topical,topical,,topical,,,single
+cattle mutilations,1,1,0.00%,100.00%,0:00:08,1,topical,topical,,topical,,,single
+census block temperature in denver,1,1,0.00%,0.00%,0:01:30,4,topical|locational|placename,placename|publication,,topical,locational,placename,combined
+Chronic wasting,1,1,0.00%,100.00%,0:00:08,0,topical,topical,,topical,,,single
+Climate,1,1,0.00%,100.00%,0:00:54,1,topical,topical,,topical,,,single
+coal,3,1,33.33%,66.67%,0:00:03,0,topical,topical,,topical,,,single
+commerial zoning,1,1,0.00%,100.00%,0:00:08,0,topical,topical,,topical,,,single
+conservation,1,5,0.00%,20.00%,0:04:43,4,topical,topical,,topical,,,single
+continental,1,1,0.00%,100.00%,0:00:11,0,topical,topical,,topical,,,single
+cover,1,3,100.00%,0.00%,0:00:58,0,topical,topical,,topical,,,single
+crane,1,1,0.00%,100.00%,0:00:23,0,topical,topical,,topical,,,single
+Crimes,1,1,0.00%,100.00%,0:00:03,0,topical,topical,,topical,,,single
+deer,2,2,50.00%,25.00%,0:00:14,0.5,topical,topical,,topical,,,single
+deforestation,1,1,0.00%,0.00%,0:00:05,1,topical,topical,,topical,,,single
+dispersed,1,1,0.00%,0.00%,0:18:02,2,topical,topical,,topical,,,single
+dogs,1,2,0.00%,50.00%,0:00:52,1,topical,topical,,topical,,,single
+eagle,3,1.67,33.33%,0.00%,0:05:30,1.67,topical,topical,,topical,,,single
+el chupacabra,1,1,0.00%,0.00%,0:00:07,1,topical,topical,,topical,,,single
+election,1,1,100.00%,0.00%,0:00:00,0,topical,topical,,topical,,,single
+falcon,1,1,0.00%,100.00%,0:00:29,0,topical,topical,,topical,,,single
+ferret,1,2,0.00%,50.00%,0:01:09,1,topical,topical,,topical,,,single
+fire,2,1.5,0.00%,66.67%,0:06:53,4.5,topical,topical,,topical,,,single
+fireblight,1,1,0.00%,100.00%,0:00:06,0,topical,topical,,topical,,,single
+fish,3,2.33,0.00%,42.86%,0:07:48,1.67,topical,topical,,topical,,,single
+food,1,1,0.00%,0.00%,0:02:03,1,topical,topical,,topical,,,single
+fox,1,2,0.00%,50.00%,0:02:45,1,topical,topical,,topical,,,single
+fracking,1,2,0.00%,50.00%,0:00:11,0,topical,locational,,topical,,,single
+fraking,1,1,0.00%,100.00%,0:00:03,0,topical,locational,,topical,,,single
+genealogy,1,1,0.00%,100.00%,0:00:03,0,topical,topical,,topical,,,single
+geography,1,1,0.00%,100.00%,0:00:04,0,topical,topical,,topical,,,single
+geolog*,1,1,0.00%,100.00%,0:00:13,0,topical,topical,,topical,,,single
+geologic,1,1,0.00%,0.00%,0:00:02,1,topical,topical,,topical,,,single
+geologt,1,1,0.00%,100.00%,0:00:08,0,topical,topical,,topical,,,single
+geology,8,1.25,0.00%,50.00%,0:00:24,0.62,topical,topical,,topical,,,single
+geology units,1,2,0.00%,0.00%,0:07:57,2,topical,topical,,topical,,,single
+goat,2,3,0.00%,16.67%,0:04:53,3,topical,topical,,topical,,,single
+goats,2,1.5,0.00%,66.67%,0:16:42,2,topical,topical,,topical,,,single
+Gold,1,1,100.00%,0.00%,0:00:00,0,topical,topical,,topical,,,single
+groundsnake,1,1,0.00%,0.00%,0:26:56,3,topical,topical,,topical,,,single
+habitat,1,7,100.00%,14.29%,0:12:13,7,topical,topical,,topical,,,single
+hawk,1,1,0.00%,100.00%,0:00:14,0,topical,topical,,topical,,,single
+heron,1,2,0.00%,0.00%,0:00:57,3,topical,topical,,topical,,,single
+hidrography,1,1,0.00%,100.00%,0:00:10,1,topical,topical,,topical,,,single
+human,1,1,100.00%,0.00%,0:00:00,0,topical,topical,,topical,,,single
+human footprint,1,1,0.00%,100.00%,0:00:38,2,topical,topical,,topical,,,single
+human influence,1,1,0.00%,100.00%,0:00:06,1,topical,topical,,topical,,,single
+hydrography,1,2,0.00%,50.00%,0:00:26,1,topical,topical,,topical,,,single
+hydrology,3,4.67,0.00%,28.57%,0:03:00,6.67,topical,topical,,topical,,,single
+ice,1,1,0.00%,0.00%,0:09:57,1,topical,topical,,topical,,,single
+income,1,1,0.00%,0.00%,0:03:00,6,topical,topical,,topical,,,single
+indangered species,1,1,0.00%,100.00%,0:01:21,4,topical,topical,,topical,,,single
+indian,1,3,0.00%,33.33%,0:01:00,2,topical,topical,,topical,,,single
+industrial,1,1,0.00%,100.00%,0:01:44,2,topical,topical,,topical,,,single
+internet,1,1,0.00%,0.00%,0:00:15,2,topical,topical,,topical,,,single
+invasive,1,1,0.00%,100.00%,0:00:04,0,topical,topical,,topical,,,single
+irrigation,1,4,0.00%,0.00%,0:07:29,5,topical,topical,,topical,,,single
+irrigiation,1,1,0.00%,100.00%,0:00:06,0,topical,topical,,topical,,,single
+kit fox,1,1,0.00%,0.00%,0:04:36,7,topical,placename,,topical,,,single
+land,1,1,0.00%,0.00%,0:00:06,1,topical,topical,,topical,,,single
+land cover,3,1.67,33.33%,20.00%,0:00:19,1,topical,topical,,topical,,,single
+land use,1,1,0.00%,0.00%,0:00:44,2,topical,topical,,topical,,,single
+landed,1,1,0.00%,0.00%,0:00:05,1,topical,topical,,topical,,,single
+landuse,1,1,0.00%,100.00%,0:00:02,0,topical,topical,,topical,,,single
+lease,1,2,0.00%,50.00%,0:11:03,1,topical,topical,,topical,,,single
+legislative,1,2,0.00%,50.00%,0:00:56,7,topical,topical,,topical,,,single
+legistlative,1,1,0.00%,100.00%,0:00:04,0,topical,topical,,topical,,,single
+lizard,1,1,0.00%,0.00%,0:00:36,1,topical,topical,,topical,,,single
+local,2,1.5,0.00%,33.33%,0:00:10,0.5,topical,topical,,topical,,,single
+lynx,1,5,0.00%,40.00%,0:04:30,1,topical,topical,,topical,,,single
+marijuana,1,1,0.00%,100.00%,0:00:06,0,topical,topical,,topical,,,single
+metadata,1,2,0.00%,0.00%,0:04:05,5,topical,topical,,topical,,,single
+mice,1,1,0.00%,0.00%,0:00:03,1,topical,topical,,topical,,,single
+migration,1,4,0.00%,0.00%,0:00:44,2,topical,topical,,topical,,,single
+mineral,1,1,0.00%,0.00%,0:00:07,1,topical,topical,,topical,,,single
+minerals,1,3,0.00%,0.00%,0:01:05,4,topical,topical,,topical,,,single
+mines,3,1.67,33.33%,40.00%,0:00:16,1,topical,locational,,topical,,,single
+moose,3,1.33,0.00%,50.00%,0:01:22,2.67,topical,topical,,topical,,,single
+mountain,1,1,0.00%,100.00%,0:00:22,0,topical,topical,,topical,,,single
+mountain goat,1,3,0.00%,33.33%,0:02:11,2,topical,topical,,topical,,,single
+Mountain Goat,1,1,0.00%,0.00%,0:04:40,3,topical,topical,,topical,,,single
+mountain lion,4,1.75,0.00%,14.29%,0:02:45,3,topical,topical,,topical,,,single
+mountain lions,1,1,0.00%,0.00%,0:00:06,1,topical,topical,,topical,,,single
+municipal,1,1,0.00%,100.00%,0:03:24,0,topical,topical,,topical,,,single
+museum,1,1,0.00%,100.00%,0:11:17,58,topical,topical,,topical,,,single
+native,1,2,100.00%,0.00%,0:00:19,1,topical,,,topical,,,single
+native american,1,2,0.00%,50.00%,0:00:57,1,topical,,,topical,,,single
+native us,1,3,0.00%,66.67%,0:15:26,22,topical,,,topical,,,single
+natural gas,1,2,0.00%,50.00%,0:01:38,1,topical,topical,,topical,,,single
+nuclear,1,1,0.00%,100.00%,0:00:05,0,topical,topical,,topical,,,single
+oil,9,1.78,22.22%,37.50%,0:01:06,0.89,topical,topical,,topical,,,single
+otter,1,1,0.00%,0.00%,0:00:12,1,topical,topical,,topical,,,single
+owl,1,1,0.00%,100.00%,0:00:16,0,topical,topical,,topical,,,single
+petrolium systems,1,1,0.00%,0.00%,0:00:08,1,topical,topical,,topical,,,single
+pika,1,2,0.00%,100.00%,0:00:35,0,topical,topical,,topical,,,single
+Pika,1,1,0.00%,100.00%,0:00:10,0,topical,topical,,topical,,,single
+pike,1,1,0.00%,100.00%,0:06:23,0,topical,topical,,topical,,,single
+pine,1,1,0.00%,0.00%,0:00:12,1,topical,topical,,topical,,,single
+Police,1,3,0.00%,66.67%,0:00:27,0,topical,topical,,topical,,,single
+pollution,1,2,100.00%,0.00%,0:00:28,1,topical,topical,,topical,,,single
+population,2,2,0.00%,25.00%,0:00:46,1,topical,topical,,topical,,,single
+Population,1,4,100.00%,0.00%,0:08:55,1,topical,topical,,topical,,,single
+Population density,2,1.5,100.00%,0.00%,0:00:31,0.5,topical,topical,,topical,,,single
+poverty,1,2,0.00%,0.00%,0:00:14,2,topical,topical,,topical,,,single
+quakes,1,1,0.00%,0.00%,0:00:04,1,topical,topical,,topical,,,single
+radio,1,2,0.00%,0.00%,0:01:51,3,topical,topical,,topical,,,single
+recreation,2,1,0.00%,50.00%,0:00:21,0.5,topical,topical,,topical,,,single
+ridership,2,1.5,0.00%,100.00%,0:00:08,0,topical,topical,,topical,,,single
+river miles,1,3,0.00%,0.00%,0:00:18,1,topical,topical|locational,,topical,,,single
+road kill,1,2,100.00%,50.00%,0:00:04,0,topical,topical,,topical,,,single
+roadkill,2,1.5,0.00%,100.00%,0:03:25,4.5,topical,topical,,topical,,,single
+roads,17,1.35,23.53%,47.83%,0:01:35,1.18,topical,topical,,topical,,,single
+rock formation,1,1,100.00%,0.00%,0:00:00,0,topical,topical,,topical,,,single
+rods,1,1,0.00%,100.00%,0:00:07,0,topical,topical,,topical,,,single
+russian olive tree,1,1,0.00%,0.00%,0:00:02,1,topical,topical,,topical,,,single
+russian olive trees,1,2,0.00%,50.00%,0:03:53,1,topical,topical,,topical,,,single
+services,1,3,100.00%,0.00%,0:00:22,2,topical,topical,,topical,,,single
+sewer,1,1,0.00%,100.00%,0:00:03,0,topical,topical,,topical,,,single
+Shops,1,1,0.00%,100.00%,0:00:12,0,topical,topical,,topical,,,single
+Snowpack levels,1,1,0.00%,100.00%,0:00:06,1,topical,topical,,topical,,,single
+soil,2,1,0.00%,50.00%,0:00:15,0.5,topical,topical,,topical,,,single
+soils,1,1,0.00%,100.00%,0:01:37,0,topical,topical,,topical,,,single
+species,1,1,0.00%,0.00%,0:00:02,1,topical,topical,,topical,,,single
+squirrel,1,1,0.00%,0.00%,0:00:43,1,topical,topical,,topical,,,single
+Statewide,1,2,0.00%,100.00%,0:01:07,3,topical,topical,,topical,,,single
+storm,1,1,0.00%,100.00%,0:00:08,0,topical,topical,,topical,,,single
+Temperature,1,1,0.00%,0.00%,0:00:18,4,topical,topical,,topical,,,single
+the great depression,1,2,0.00%,50.00%,0:00:10,2,topical,topical,,topical,,,single
+the new deal,1,2,0.00%,50.00%,0:00:10,2,topical,topical,,topical,,,single
+toad,1,2,0.00%,50.00%,0:27:33,1,topical,topical,,topical,,,single
+toxic waste,1,2,0.00%,50.00%,0:00:09,1,topical,topical,,topical,,,single
+transportation,1,1,0.00%,100.00%,0:00:07,0,topical,topical,,topical,,,single
+tree,3,2.33,0.00%,14.29%,0:03:52,3.33,topical,topical,,topical,,,single
+trees,5,2.2,20.00%,63.64%,0:01:46,1.6,topical,topical,,topical,,,single
+trees river,1,1,0.00%,100.00%,0:00:05,0,topical,topical,,topical,,,single
+triassic,1,1,0.00%,100.00%,0:00:08,0,topical,topical,,topical,,,single
+trout,3,1.33,33.33%,50.00%,0:00:15,1.33,topical,topical,,topical,,,single
+uranium,1,2,0.00%,50.00%,0:00:12,0,topical,topical,,topical,,,single
+ute,1,1,0.00%,100.00%,0:00:06,1,topical,topical,,topical,,,single
+utility,1,2,0.00%,0.00%,0:00:14,1,topical,topical,,topical,,,single
+vegetation,3,1,33.33%,66.67%,0:05:17,0,topical,topical,,topical,,,single
+voter,1,1,0.00%,100.00%,0:00:04,0,topical,topical,,topical,,,single
+voting,2,1.5,0.00%,66.67%,0:00:13,1,topical,topical,,topical,,,single
+water,13,2.46,7.69%,28.12%,0:03:58,2.38,topical,topical,,topical,,,single
+water use,1,4,0.00%,25.00%,0:01:03,1,topical,topical,,topical,,,single
+wildlife,6,3.33,16.67%,10.00%,0:05:57,1.5,topical,topical,,topical,,,single
+wine,1,1,0.00%,100.00%,0:03:29,1,topical,topical,,topical,,,single
+wolf,1,2,100.00%,0.00%,0:00:58,0,topical,topical,,topical,,,single
+wolverine,1,2,0.00%,100.00%,0:01:25,0,topical,topical,,topical,,,single
+9,1,1,100.00%,0.00%,0:00:00,0,unknown,,,unknown,,,single
+2000,1,1,0.00%,100.00%,0:00:12,1,unknown,,,unknown,,,single
+cwd,1,1,0.00%,100.00%,0:00:07,0,unknown,unknown,,unknown,,,single
+rist,1,1,0.00%,0.00%,0:00:44,3,unknown,unknown,,unknown,,,single
+tinney,1,2,0.00%,100.00%,0:00:14,1,unknown,unknown,,unknown,,,single
+trib,1,1,0.00%,100.00%,0:00:04,0,unknown,unknown,,unknown,,,single
+whetzel,1,2,0.00%,0.00%,0:00:35,4,unknown,,,unknown,,,single
