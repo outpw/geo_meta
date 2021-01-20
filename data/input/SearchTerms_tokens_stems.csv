@@ -1,0 +1,571 @@
+,Search Term,Total Unique Searches,Results Pageviews / Search,% Search Exits,% Search Refinements,Time after Search,Avg. Search Depth,Search Category (Phil),Search Category (Erik),Notes,Search Category,Second Category,Third Category,Unnamed: 13,lowTerms,tkTerms,stems
+0,base map,1,2.0,0.00%,0.00%,0:00:18,1.0,datatype,datatype,,datatype,,,single,base map,"['base', 'map']","['base', 'map']"
+1,basemap,1,3.0,0.00%,33.33%,0:00:11,0.0,datatype,datatype,,datatype,,,single,basemap,['basemap'],['basemap']
+2,basemaps,1,1.0,0.00%,100.00%,0:00:05,0.0,datatype,datatype,,datatype,,,single,basemaps,['basemaps'],['basemap']
+3,contour,1,2.0,0.00%,100.00%,0:00:11,2.0,datatype,datatype,,datatype,,,single,contour,['contour'],['contour']
+4,contours,1,1.0,0.00%,100.00%,0:00:02,0.0,datatype,datatype,,datatype,,,single,contours,['contours'],['contour']
+5,DEM,2,1.0,50.00%,50.00%,0:00:15,0.0,datatype,datatype,,datatype,,,single,dem,['dem'],['dem']
+6,dem,1,1.0,0.00%,100.00%,0:13:51,1.0,datatype,datatype,,datatype,,,single,dem,['dem'],['dem']
+7,Dem,1,3.0,100.00%,0.00%,0:08:53,0.0,datatype,datatype,,datatype,,,single,dem,['dem'],['dem']
+8,digital elevation,1,1.0,0.00%,100.00%,0:00:10,0.0,datatype,topical,,datatype,,,single,digital elevation,"['digital', 'elevation']","['digit', 'elev']"
+9,digital elevation model,1,1.0,100.00%,0.00%,0:00:00,0.0,datatype,topical,,datatype,,,single,digital elevation model,"['digital', 'elevation', 'model']","['digit', 'elev', 'model']"
+10,elevation,5,1.4,0.00%,42.86%,0:00:16,1.0,datatype,locational,,datatype,,,single,elevation,['elevation'],['elev']
+11,hill shade,1,2.0,0.00%,100.00%,0:00:11,0.0,datatype,datatype,,datatype,,,single,hill shade,"['hill', 'shade']","['hill', 'shade']"
+12,hillshade,1,2.0,0.00%,50.00%,0:00:05,1.0,datatype,datatype,,datatype,,,single,hillshade,['hillshade'],['hillshad']
+13,lidar,1,1.0,0.00%,100.00%,0:00:04,0.0,datatype,datatype,,datatype,,,single,lidar,['lidar'],['lidar']
+14,NDVI,1,1.0,0.00%,100.00%,0:00:09,0.0,datatype,,,datatype,,,single,ndvi,['ndvi'],['ndvi']
+15,photogrammetry,1,1.0,0.00%,0.00%,0:00:40,4.0,datatype,datatype,,datatype,,,single,photogrammetry,['photogrammetry'],['photogrammetri']
+16,slope,1,1.0,0.00%,100.00%,0:00:06,0.0,datatype,topical,,datatype,,,single,slope,['slope'],['slope']
+17,topo,2,2.0,0.00%,50.00%,0:00:50,7.0,datatype,datatype,,datatype,,,single,topo,['topo'],['topo']
+18,topographic,1,2.0,0.00%,100.00%,0:00:24,2.0,datatype,datatype,,datatype,,,single,topographic,['topographic'],['topograph']
+19,geotiff,1,1.0,0.00%,0.00%,0:00:07,2.0,format,datatype,,format,,,single,geotiff,['geotiff'],['geotiff']
+20,wms,1,1.0,0.00%,0.00%,0:00:56,4.0,format,,,format,,,single,wms,['wms'],['wm']
+21,64 counties,1,2.0,0.00%,50.00%,0:00:17,0.0,locational,locational,,locational,,,single,64 counties,"['64', 'counties']","['64', 'counti']"
+22,airports,1,1.0,100.00%,0.00%,0:00:00,0.0,locational,locational,,locational,,,single,airports,['airports'],['airport']
+23,aquifer,1,2.0,100.00%,0.00%,0:00:08,1.0,locational,locational,,locational,,,single,aquifer,['aquifer'],['aquif']
+24,area zoning,1,1.0,0.00%,100.00%,0:00:21,0.0,locational,locational,,locational,,,single,area zoning,"['area', 'zoning']","['area', 'zone']"
+25,basins,1,2.0,0.00%,50.00%,0:10:50,0.0,locational,locational,,locational,,,single,basins,['basins'],['basin']
+26,blocks,1,1.0,0.00%,0.00%,0:10:11,7.0,locational,topical,,locational,,,single,blocks,['blocks'],['block']
+27,blue ribbon streams,1,1.0,0.00%,100.00%,0:00:05,0.0,locational,placename,,locational,,,single,blue ribbon streams,"['blue', 'ribbon', 'streams']","['blue', 'ribbon', 'stream']"
+28,boundaries,1,2.0,0.00%,100.00%,0:00:10,0.0,locational,locational,,locational,,,single,boundaries,['boundaries'],['boundari']
+29,breweries,1,1.0,0.00%,100.00%,0:00:04,1.0,locational,locational,,locational,,,single,breweries,['breweries'],['breweri']
+30,buiding,1,1.0,0.00%,100.00%,0:00:04,0.0,locational,locational,,locational,,,single,buiding,['buiding'],['buid']
+31,building,2,1.0,0.00%,0.00%,0:06:29,1.5,locational,locational,,locational,,,single,building,['building'],['build']
+32,Building,2,1.0,0.00%,0.00%,0:00:11,1.0,locational,locational,,locational,,,single,building,['building'],['build']
+33,camp,4,1.25,50.00%,60.00%,0:00:03,0.0,locational,locational,,locational,,,single,camp,['camp'],['camp']
+34,Camp,1,1.0,0.00%,100.00%,0:00:49,0.0,locational,locational,,locational,,,single,camp,['camp'],['camp']
+35,campground,1,2.0,0.00%,50.00%,0:00:11,1.0,locational,locational,,locational,,,single,campground,['campground'],['campground']
+36,camping,1,1.0,0.00%,100.00%,0:00:06,0.0,locational,locational,,locational,,,single,camping,['camping'],['camp']
+37,campsites,1,1.0,0.00%,100.00%,0:00:11,1.0,locational,locational,,locational,,,single,campsites,['campsites'],['campsit']
+38,Campsites,1,1.0,0.00%,100.00%,0:00:03,0.0,locational,locational,,locational,,,single,campsites,['campsites'],['campsit']
+39,campus,1,1.0,0.00%,0.00%,0:00:39,7.0,locational,locational,,locational,,,single,campus,['campus'],['campu']
+40,Campus,1,1.0,0.00%,100.00%,0:04:43,1.0,locational,locational,,locational,,,single,campus,['campus'],['campu']
+41,canals,1,1.0,0.00%,0.00%,0:51:23,7.0,locational,locational,,locational,,,single,canals,['canals'],['canal']
+42,cities,6,1.33,0.00%,25.00%,0:00:21,1.0,locational,locational,,locational,,,single,cities,['cities'],['citi']
+43,city,1,2.0,0.00%,0.00%,0:00:20,2.0,locational,locational,,locational,,,single,city,['city'],['citi']
+44,congressional,2,1.0,0.00%,100.00%,0:00:06,0.0,locational,locational,,locational,,,single,congressional,['congressional'],['congression']
+45,counties,9,3.56,0.00%,28.12%,0:01:01,1.0,locational,locational,,locational,,,single,counties,['counties'],['counti']
+46,countties,1,1.0,0.00%,100.00%,0:00:09,1.0,locational,locational,,locational,,,single,countties,['countties'],['countti']
+47,county,5,2.0,20.00%,20.00%,0:00:19,1.6,locational,locational,,locational,,,single,county,['county'],['counti']
+48,Crash,1,1.0,100.00%,0.00%,0:00:00,0.0,locational,locational,,locational,,,single,crash,['crash'],['crash']
+49,creek,1,1.0,0.00%,0.00%,0:27:42,24.0,locational,locational,,locational,,,single,creek,['creek'],['creek']
+50,dispenseries,1,1.0,0.00%,100.00%,0:00:12,0.0,locational,locational,,locational,,,single,dispenseries,['dispenseries'],['dispenseri']
+51,ditches,1,2.0,0.00%,0.00%,0:05:44,1.0,locational,locational,,locational,,,single,ditches,['ditches'],['ditch']
+52,dried up towns water,1,2.0,0.00%,100.00%,0:03:42,2.0,locational|topical,locational,,locational,topical,,combined,dried up towns water,"['dried', 'up', 'towns', 'water']","['dri', 'up', 'town', 'water']"
+53,ecoregion,1,1.0,0.00%,100.00%,0:00:07,0.0,locational,locational,,locational,,,single,ecoregion,['ecoregion'],['ecoregion']
+54,field,1,2.0,0.00%,0.00%,0:00:13,2.0,locational,locational,,locational,,,single,field,['field'],['field']
+55,Fire Departments,1,3.0,0.00%,66.67%,0:00:34,1.0,locational,locational,,locational,,,single,fire departments,"['fire', 'departments']","['fire', 'depart']"
+56,floodplain,1,2.0,0.00%,50.00%,0:03:25,1.0,locational,locational,,locational,,,single,floodplain,['floodplain'],['floodplain']
+57,fluvial planes,1,1.0,0.00%,100.00%,0:00:30,0.0,locational,locational,,locational,,,single,fluvial planes,"['fluvial', 'planes']","['fluvial', 'plane']"
+58,food stores,1,1.0,0.00%,100.00%,0:00:14,1.0,locational,locational,,locational,,,single,food stores,"['food', 'stores']","['food', 'store']"
+59,Food Stores,1,3.0,0.00%,33.33%,0:08:11,4.0,locational,locational,,locational,,,single,food stores,"['food', 'stores']","['food', 'store']"
+60,forest,1,1.0,0.00%,100.00%,0:00:18,1.0,locational,locational,,locational,,,single,forest,['forest'],['forest']
+61,Ghost town,1,1.0,0.00%,0.00%,0:00:10,1.0,locational,locational,,locational,,,single,ghost town,"['ghost', 'town']","['ghost', 'town']"
+62,glacier,1,1.0,0.00%,100.00%,0:00:03,0.0,locational,locational,,locational,,,single,glacier,['glacier'],['glacier']
+63,glaciers,2,1.0,50.00%,50.00%,0:00:03,0.5,locational,locational,,locational,,,single,glaciers,['glaciers'],['glacier']
+64,grocery stores,1,1.0,0.00%,100.00%,0:00:10,0.0,locational,locational,,locational,,,single,grocery stores,"['grocery', 'stores']","['groceri', 'store']"
+65,Grocery stores,1,1.0,0.00%,100.00%,0:00:10,0.0,locational,locational,,locational,,,single,grocery stores,"['grocery', 'stores']","['groceri', 'store']"
+66,ground water,1,2.0,0.00%,50.00%,0:00:36,1.0,locational,locational,,locational,,,single,ground water,"['ground', 'water']","['ground', 'water']"
+67,groundwater,2,1.0,0.00%,100.00%,0:00:04,0.0,locational,locational,,locational,,,single,groundwater,['groundwater'],['groundwat']
+68,Highway,1,1.0,0.00%,100.00%,0:00:28,1.0,locational,locational,,locational,,,single,highway,['highway'],['highway']
+69,highway crossing,1,5.0,0.00%,20.00%,0:02:35,2.0,locational,locational,,locational,,,single,highway crossing,"['highway', 'crossing']","['highway', 'cross']"
+70,highways,6,1.0,0.00%,83.33%,0:01:48,0.33,locational,locational,,locational,,,single,highways,['highways'],['highway']
+71,Hospitals,1,4.0,0.00%,25.00%,0:01:39,5.0,locational,locational,,locational,,,single,hospitals,['hospitals'],['hospit']
+72,houses,1,4.0,0.00%,25.00%,0:26:34,1.0,locational,locational,,locational,,,single,houses,['houses'],['hous']
+73,Houses with more than 4 bedrooms,1,3.0,0.00%,0.00%,0:00:12,1.0,locational|topical,locational,,locational,topical,,combined,houses with more than 4 bedrooms,"['houses', 'with', 'more', 'than', '4', 'bedrooms']","['hous', 'with', 'more', 'than', '4', 'bedroom']"
+74,indigineous land,1,3.0,0.00%,66.67%,0:00:09,0.0,locational,locational,,locational,,,single,indigineous land,"['indigineous', 'land']","['indigin', 'land']"
+75,indigineous pipelines,1,1.0,0.00%,100.00%,0:00:02,0.0,locational,locational,,locational,,,single,indigineous pipelines,"['indigineous', 'pipelines']","['indigin', 'pipelin']"
+76,Industrial land zoning,1,1.0,100.00%,0.00%,0:00:00,0.0,locational,locational,,locational,,,single,industrial land zoning,"['industrial', 'land', 'zoning']","['industri', 'land', 'zone']"
+77,industrial zoning,1,1.0,0.00%,100.00%,0:00:05,0.0,locational,locational,,locational,,,single,industrial zoning,"['industrial', 'zoning']","['industri', 'zone']"
+78,industry area zoning,1,1.0,0.00%,100.00%,0:00:05,0.0,locational,locational,,locational,,,single,industry area zoning,"['industry', 'area', 'zoning']","['industri', 'area', 'zone']"
+79,industry zoning,1,1.0,0.00%,100.00%,0:00:09,0.0,locational,locational,,locational,,,single,industry zoning,"['industry', 'zoning']","['industri', 'zone']"
+80,invasive trees,1,1.0,0.00%,100.00%,0:00:03,0.0,locational,locational,,locational,,,single,invasive trees,"['invasive', 'trees']","['invas', 'tree']"
+81,lakes,5,1.4,20.00%,57.14%,0:02:15,0.4,locational,locational,,locational,,,single,lakes,['lakes'],['lake']
+82,landslide,1,11.0,0.00%,0.00%,0:04:24,12.0,locational,locational,,locational,,,single,landslide,['landslide'],['landslid']
+83,legistlative districts,1,1.0,0.00%,100.00%,0:00:03,0.0,locational,locational,,locational,,,single,legistlative districts,"['legistlative', 'districts']","['legistl', 'district']"
+84,libraries,1,2.0,0.00%,50.00%,0:00:41,1.0,locational,locational,,locational,,,single,libraries,['libraries'],['librari']
+85,library,2,1.0,0.00%,50.00%,0:02:35,2.5,locational,locational,,locational,,,single,library,['library'],['librari']
+86,Licensed Daycare Facilities,1,5.0,0.00%,20.00%,0:01:30,5.0,locational,locational,,locational,,,single,licensed daycare facilities,"['licensed', 'daycare', 'facilities']","['licens', 'daycar', 'facil']"
+87,markets,1,1.0,0.00%,100.00%,0:00:08,0.0,locational,locational,,locational,,,single,markets,['markets'],['market']
+88,mine,5,1.6,20.00%,50.00%,0:02:10,2.2,locational,locational,,locational,,,single,mine,['mine'],['mine']
+89,mountains,1,1.0,100.00%,0.00%,0:00:00,0.0,locational,locational,,locational,,,single,mountains,['mountains'],['mountain']
+90,national park,1,1.0,0.00%,100.00%,0:18:57,2.0,locational,locational,,locational,,,single,national park,"['national', 'park']","['nation', 'park']"
+91,National park,1,3.0,100.00%,0.00%,0:00:22,0.0,locational,locational,,locational,,,single,national park,"['national', 'park']","['nation', 'park']"
+92,national parks,1,2.0,0.00%,50.00%,0:02:05,2.0,locational,locational,,locational,,,single,national parks,"['national', 'parks']","['nation', 'park']"
+93,native land,1,2.0,0.00%,50.00%,0:00:14,1.0,locational,locational,,locational,,,single,native land,"['native', 'land']","['nativ', 'land']"
+94,open space,2,1.0,0.00%,50.00%,0:12:43,0.5,locational,locational,,locational,,,single,open space,"['open', 'space']","['open', 'space']"
+95,orchard,1,1.0,0.00%,100.00%,0:00:06,1.0,locational,locational,,locational,,,single,orchard,['orchard'],['orchard']
+96,parcel,1,1.0,0.00%,0.00%,0:00:30,2.0,locational,topical,,locational,,,single,parcel,['parcel'],['parcel']
+97,parcels,1,1.0,100.00%,0.00%,0:00:00,0.0,locational,topical,,locational,,,single,parcels,['parcels'],['parcel']
+98,park,1,16.0,100.00%,0.00%,0:01:38,7.0,locational,locational,,locational,,,single,park,['park'],['park']
+99,parks,4,2.5,25.00%,0.00%,0:00:23,1.0,locational,locational,,locational,,,single,parks,['parks'],['park']
+100,peaks,1,1.0,0.00%,100.00%,0:00:15,0.0,locational,locational,,locational,,,single,peaks,['peaks'],['peak']
+101,places,1,1.0,0.00%,100.00%,0:00:03,0.0,locational,topical,,locational,,,single,places,['places'],['place']
+102,Police Departments,1,2.0,0.00%,50.00%,0:00:11,0.0,locational,locational,,locational,,,single,police departments,"['police', 'departments']","['polic', 'depart']"
+103,polluted area zoning,1,1.0,0.00%,100.00%,0:00:09,0.0,locational,locational,,locational,,,single,polluted area zoning,"['polluted', 'area', 'zoning']","['pollut', 'area', 'zone']"
+104,Precinct,1,3.0,0.00%,0.00%,0:00:43,4.0,locational,locational,,locational,,,single,precinct,['precinct'],['precinct']
+105,precints,1,1.0,0.00%,100.00%,0:00:05,0.0,locational,locational,,locational,,,single,precints,['precints'],['precint']
+106,protected lands,1,1.0,100.00%,0.00%,0:00:00,0.0,locational,locational,,locational,,,single,protected lands,"['protected', 'lands']","['protect', 'land']"
+107,public lands,1,4.0,100.00%,0.00%,0:00:12,0.0,locational,locational,,locational,,,single,public lands,"['public', 'lands']","['public', 'land']"
+108,raods,1,1.0,0.00%,100.00%,0:00:04,0.0,locational,locational,,locational,,,single,raods,['raods'],['raod']
+109,reservations,1,1.0,100.00%,0.00%,0:00:00,0.0,locational,locational,,locational,,,single,reservations,['reservations'],['reserv']
+110,reservoirs,1,1.0,0.00%,0.00%,0:00:38,3.0,locational,locational,,locational,,,single,reservoirs,['reservoirs'],['reservoir']
+111,riparian,1,2.0,0.00%,50.00%,0:06:15,1.0,locational,locational,,locational,,,single,riparian,['riparian'],['riparian']
+112,river,4,1.0,0.00%,75.00%,0:06:44,0.25,locational,locational,,locational,,,single,river,['river'],['river']
+113,River,1,1.0,0.00%,100.00%,0:01:36,5.0,locational,locational,,locational,,,single,river,['river'],['river']
+114,rivers,9,3.44,22.22%,29.03%,0:01:35,1.44,locational,locational,,locational,,,single,rivers,['rivers'],['river']
+115,Rivers,1,2.0,0.00%,50.00%,0:00:44,2.0,locational,locational,,locational,,,single,rivers,['rivers'],['river']
+116,road,2,2.0,0.00%,50.00%,0:08:34,2.0,locational,locational,,locational,,,single,road,['road'],['road']
+117,Road,1,1.0,0.00%,0.00%,0:00:05,1.0,locational,locational,,locational,,,single,road,['road'],['road']
+118,Roads,1,2.0,0.00%,50.00%,0:02:56,2.0,locational,locational,,locational,,,single,roads,['roads'],['road']
+119,ROADS,1,1.0,0.00%,100.00%,0:00:07,0.0,locational,locational,,locational,,,single,roads,['roads'],['road']
+120,schools,2,1.5,0.00%,33.33%,0:03:32,0.5,locational,locational,,locational,,,single,schools,['schools'],['school']
+121,sinkholes,1,2.0,0.00%,50.00%,0:00:05,1.0,locational,locational,,locational,,,single,sinkholes,['sinkholes'],['sinkhol']
+122,south,1,1.0,0.00%,100.00%,0:08:36,0.0,locational,locational,,locational,,,single,south,['south'],['south']
+123,south facing,1,1.0,0.00%,100.00%,0:00:04,0.0,locational,locational,,locational,,,single,south facing,"['south', 'facing']","['south', 'face']"
+124,south slope,1,1.0,0.00%,100.00%,0:09:44,0.0,locational,locational,,locational,,,single,south slope,"['south', 'slope']","['south', 'slope']"
+125,special trout water,1,1.0,0.00%,100.00%,0:00:02,0.0,locational,locational,,locational,,,single,special trout water,"['special', 'trout', 'water']","['special', 'trout', 'water']"
+126,Springs,1,2.0,100.00%,0.00%,0:00:10,0.0,locational,locational,,locational,,,single,springs,['springs'],['spring']
+127,state,1,3.0,100.00%,0.00%,0:00:19,0.0,locational,locational,,locational,,,single,state,['state'],['state']
+128,Statewide Fire Department,1,2.0,0.00%,100.00%,0:00:06,0.0,locational,topical,,locational,,,single,statewide fire department,"['statewide', 'fire', 'department']","['statewid', 'fire', 'depart']"
+129,Statewide Fire Departments,1,6.0,0.00%,33.33%,0:00:23,0.0,locational,topical,,locational,,,single,statewide fire departments,"['statewide', 'fire', 'departments']","['statewid', 'fire', 'depart']"
+130,stream,5,1.8,0.00%,55.56%,0:00:35,1.0,locational,locational,,locational,,,single,stream,['stream'],['stream']
+131,stream watershed,1,1.0,0.00%,100.00%,0:00:03,0.0,locational,locational,,locational,,,single,stream watershed,"['stream', 'watershed']","['stream', 'watersh']"
+132,streams,17,1.94,5.88%,45.45%,0:02:21,1.71,locational,locational,,locational,,,single,streams,['streams'],['stream']
+133,streams and rivers,1,1.0,0.00%,100.00%,0:00:06,0.0,locational,locational,,locational,,,single,streams and rivers,"['streams', 'and', 'rivers']","['stream', 'and', 'river']"
+134,street,2,1.5,50.00%,0.00%,0:00:17,1.0,locational,locational,,locational,,,single,street,['street'],['street']
+135,summits,1,1.0,0.00%,100.00%,0:00:08,0.0,locational,locational,,locational,,,single,summits,['summits'],['summit']
+136,supermarkets,1,1.0,0.00%,100.00%,0:00:07,0.0,locational,locational,,locational,,,single,supermarkets,['supermarkets'],['supermarket']
+137,towns,2,4.0,0.00%,25.00%,0:02:59,2.0,locational,locational,,locational,,,single,towns,['towns'],['town']
+138,towns that disappeard because of water,1,2.0,0.00%,100.00%,0:00:08,0.0,locational|topical,topical,,locational,topical,,combined,towns that disappeard because of water,"['towns', 'that', 'disappeard', 'because', 'of', 'water']","['town', 'that', 'disappeard', 'becaus', 'of', 'water']"
+139,township,1,1.0,0.00%,0.00%,0:00:04,1.0,locational,locational,,locational,,,single,township,['township'],['township']
+140,tract,1,2.0,0.00%,50.00%,0:06:56,4.0,locational,publication,,locational,,,single,tract,['tract'],['tract']
+141,tracts,3,2.0,0.00%,50.00%,0:03:09,1.67,locational,publication,,locational,,,single,tracts,['tracts'],['tract']
+142,trail,1,2.0,0.00%,50.00%,0:02:02,1.0,locational,locational,,locational,,,single,trail,['trail'],['trail']
+143,trailhead,1,2.0,0.00%,50.00%,0:00:28,1.0,locational,locational,,locational,,,single,trailhead,['trailhead'],['trailhead']
+144,trails,8,1.62,12.50%,15.38%,0:03:33,1.5,locational,locational,,locational,,,single,trails,['trails'],['trail']
+145,tunnel,3,1.0,0.00%,100.00%,0:00:49,0.67,locational,locational,,locational,,,single,tunnel,['tunnel'],['tunnel']
+146,tunnels,2,1.5,0.00%,66.67%,0:00:06,0.0,locational,locational,,locational,,,single,tunnels,['tunnels'],['tunnel']
+147,Tunnels,1,1.0,0.00%,100.00%,0:02:33,6.0,locational,locational,,locational,,,single,tunnels,['tunnels'],['tunnel']
+148,uranium mining,1,2.0,0.00%,50.00%,0:25:29,3.0,locational,locational,,locational,,,single,uranium mining,"['uranium', 'mining']","['uranium', 'mine']"
+149,water and santiation districts,1,1.0,0.00%,100.00%,0:00:35,2.0,locational,locational,,locational,,,single,water and santiation districts,"['water', 'and', 'santiation', 'districts']","['water', 'and', 'santiat', 'district']"
+150,Water basin,1,2.0,0.00%,50.00%,0:00:06,1.0,locational,locational,,locational,,,single,water basin,"['water', 'basin']","['water', 'basin']"
+151,water towns,1,2.0,0.00%,100.00%,0:00:29,2.0,locational,locational,,locational,,,single,water towns,"['water', 'towns']","['water', 'town']"
+152,watershed,8,1.25,25.00%,50.00%,0:00:12,0.38,locational,locational,,locational,,,single,watershed,['watershed'],['watersh']
+153,watersheds,6,1.33,0.00%,50.00%,0:01:42,0.67,locational,locational,,locational,,,single,watersheds,['watersheds'],['watersh']
+154,well,1,2.0,100.00%,0.00%,0:00:15,0.0,locational,locational,,locational,,,single,well,['well'],['well']
+155,wells,3,1.33,66.67%,25.00%,0:00:07,1.0,locational,locational,,locational,,,single,wells,['wells'],['well']
+156,wilderness,1,1.0,0.00%,100.00%,0:00:09,0.0,locational,locational,,locational,,,single,wilderness,['wilderness'],['wilder']
+157,wildlife collisions,1,1.0,0.00%,100.00%,0:00:06,0.0,locational,locational,,locational,,,single,wildlife collisions,"['wildlife', 'collisions']","['wildlif', 'collis']"
+158,wildlife vehicle,1,2.0,0.00%,0.00%,0:02:15,2.0,locational,topical,,locational,,,single,wildlife vehicle,"['wildlife', 'vehicle']","['wildlif', 'vehicl']"
+159,zip,1,1.0,0.00%,100.00%,0:00:05,0.0,locational,locational,,locational,,,single,zip,['zip'],['zip']
+160,zip code,1,1.0,0.00%,100.00%,0:00:58,1.0,locational,locational,,locational,,,single,zip code,"['zip', 'code']","['zip', 'code']"
+161,zip codes,2,1.0,0.00%,100.00%,0:00:33,0.0,locational,locational,,locational,,,single,zip codes,"['zip', 'codes']","['zip', 'code']"
+162,zoning,1,4.0,0.00%,50.00%,0:02:07,2.0,locational,locational,,locational,,,single,zoning,['zoning'],['zone']
+163,Blm,1,3.0,0.00%,33.33%,0:00:58,1.0,organization,organization,,organization,,,single,blm,['blm'],['blm']
+164,cdot,1,2.0,0.00%,50.00%,0:00:22,1.0,organization,organization,,organization,,,single,cdot,['cdot'],['cdot']
+165,CDOT,1,2.0,0.00%,0.00%,0:00:06,1.0,organization,organization,,organization,,,single,cdot,['cdot'],['cdot']
+166,census,11,1.73,18.18%,36.84%,0:03:02,0.91,organization|publication,publication,,organization,publication,,combined,census,['census'],['censu']
+167,colorado dola,1,6.0,0.00%,33.33%,0:01:26,2.0,organization,locational,,organization,,,single,colorado dola,"['colorado', 'dola']","['colorado', 'dola']"
+168,colorado DOLA,1,2.0,0.00%,0.00%,0:00:13,1.0,organization,locational,,organization,,,single,colorado dola,"['colorado', 'dola']","['colorado', 'dola']"
+169,Colorado DOLA,1,3.0,0.00%,33.33%,0:02:29,1.0,organization,locational,,organization,,,single,colorado dola,"['colorado', 'dola']","['colorado', 'dola']"
+170,DRCOG,1,1.0,0.00%,0.00%,0:00:03,1.0,organization,organization,,organization,,,single,drcog,['drcog'],['drcog']
+171,EPA fines,1,1.0,0.00%,100.00%,0:00:20,1.0,organization|publication,locational,,organization,publication,,combined,epa fines,"['epa', 'fines']","['epa', 'fine']"
+172,fema,1,1.0,0.00%,0.00%,0:00:38,1.0,organization,topical,,organization,,,single,fema,['fema'],['fema']
+173,national forest service,1,1.0,0.00%,100.00%,0:01:24,0.0,organization,topical,,organization,,,single,national forest service,"['national', 'forest', 'service']","['nation', 'forest', 'servic']"
+174,sanborn,2,1.5,50.00%,0.00%,0:00:04,0.5,organization,topical,,organization,,,single,sanborn,['sanborn'],['sanborn']
+175,sanborne,1,1.0,0.00%,100.00%,0:00:07,0.0,organization,topical,,organization,,,single,sanborne,['sanborne'],['sanborn']
+176,usfs,1,1.0,0.00%,100.00%,0:00:09,0.0,organization,topical,,organization,,,single,usfs,['usfs'],['usf']
+177,paul weimer,1,1.0,0.00%,100.00%,0:00:13,1.0,person,person,,person,,,single,paul weimer,"['paul', 'weimer']","['paul', 'weimer']"
+178,80220,1,1.0,0.00%,0.00%,0:00:53,5.0,placename,placename,,placename,,,single,80220,['80220'],['80220']
+179,80304,1,1.0,0.00%,100.00%,0:00:13,0.0,placename,placename,,placename,,,single,80304,['80304'],['80304']
+180,80403,1,1.0,0.00%,100.00%,0:00:25,0.0,placename,placename,,placename,,,single,80403,['80403'],['80403']
+181,"""san isabel""",1,1.0,0.00%,100.00%,0:00:04,0.0,placename,placename,,placename,,,single,"""san isabel""","['``', 'san', 'isabel', ""''""]","['``', 'san', 'isabel', ""''""]"
+182,1743 ridge rd,1,1.0,0.00%,0.00%,0:00:25,3.0,placename,placename,,placename,,,single,1743 ridge rd,"['1743', 'ridge', 'rd']","['1743', 'ridg', 'rd']"
+183,"777 s wadsworth blvd, co",1,1.0,0.00%,100.00%,0:00:14,3.0,placename,placename,,placename,,,single,"777 s wadsworth blvd, co","['777', 's', 'wadsworth', 'blvd', ',', 'co']","['777', 's', 'wadsworth', 'blvd', ',', 'co']"
+184,alamosa,2,1.0,0.00%,100.00%,0:00:08,0.5,placename,placename,,placename,,,single,alamosa,['alamosa'],['alamosa']
+185,alaska,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,alaska,['alaska'],['alaska']
+186,All schools in colorado,2,2.0,0.00%,50.00%,0:00:21,0.0,placename|locational,locational|placename,,placename,locational,,combined,all schools in colorado,"['all', 'schools', 'in', 'colorado']","['all', 'school', 'in', 'colorado']"
+187,arapahoe,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,arapahoe,['arapahoe'],['arapaho']
+188,arapahoe county ditch,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,arapahoe county ditch,"['arapahoe', 'county', 'ditch']","['arapaho', 'counti', 'ditch']"
+189,Arkansas river,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,arkansas river,"['arkansas', 'river']","['arkansa', 'river']"
+190,asia,1,1.0,0.00%,0.00%,0:00:02,1.0,placename,placename,,placename,,,single,asia,['asia'],['asia']
+191,aspen,2,1.0,0.00%,100.00%,0:00:11,0.5,placename,placename,,placename,,,single,aspen,['aspen'],['aspen']
+192,Aurora,1,5.0,0.00%,20.00%,0:00:07,0.0,placename,placename,,placename,,,single,aurora,['aurora'],['aurora']
+193,Aurora CO,1,2.0,0.00%,50.00%,0:01:32,13.0,placename,topical,,placename,,,single,aurora co,"['aurora', 'co']","['aurora', 'co']"
+194,bierstadt lake,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,bierstadt lake,"['bierstadt', 'lake']","['bierstadt', 'lake']"
+195,bolder,1,2.0,0.00%,100.00%,0:00:11,0.0,placename,placename,,placename,,,single,bolder,['bolder'],['bolder']
+196,boluder,1,1.0,0.00%,100.00%,0:00:04,0.0,placename,placename,,placename,,,single,boluder,['boluder'],['bolud']
+197,boulder,16,5.44,25.00%,9.20%,0:03:50,2.12,placename,placename,,placename,,,single,boulder,['boulder'],['boulder']
+198,Boulder,2,6.0,0.00%,0.00%,0:01:39,4.5,placename,placename,,placename,,,single,boulder,['boulder'],['boulder']
+199,boulder buildings,1,1.0,0.00%,0.00%,0:00:02,1.0,placename,placename,,placename,,,single,boulder buildings,"['boulder', 'buildings']","['boulder', 'build']"
+200,boulder campus,1,1.0,0.00%,100.00%,0:00:09,1.0,placename,placename,,placename,,,single,boulder campus,"['boulder', 'campus']","['boulder', 'campu']"
+201,boulder contour,1,1.0,0.00%,100.00%,0:29:38,0.0,placename|datatype,placename|datatype,,placename,datatype,,combined,boulder contour,"['boulder', 'contour']","['boulder', 'contour']"
+202,Boulder county,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,boulder county,"['boulder', 'county']","['boulder', 'counti']"
+203,Boulder County,1,3.0,100.00%,0.00%,0:06:22,1.0,placename,placename,,placename,,,single,boulder county,"['boulder', 'county']","['boulder', 'counti']"
+204,Boulder county buildings,1,2.0,0.00%,50.00%,0:00:43,1.0,placename|locational,placename,,placename,locational,,combined,boulder county buildings,"['boulder', 'county', 'buildings']","['boulder', 'counti', 'build']"
+205,Boulder County geolgy,1,1.0,0.00%,100.00%,0:00:06,0.0,placename|topical,placename|topical,,placename,topical,,combined,boulder county geolgy,"['boulder', 'county', 'geolgy']","['boulder', 'counti', 'geolgi']"
+206,Boulder County geology,1,1.0,0.00%,100.00%,0:00:06,0.0,placename|topical,placename|topical,,placename,topical,,combined,boulder county geology,"['boulder', 'county', 'geology']","['boulder', 'counti', 'geolog']"
+207,boulder creek,2,1.5,0.00%,100.00%,0:00:09,0.0,placename,placename,,placename,,,single,boulder creek,"['boulder', 'creek']","['boulder', 'creek']"
+208,BOULDER CREEK,1,2.0,0.00%,50.00%,0:00:19,1.0,placename,placename,,placename,,,single,boulder creek,"['boulder', 'creek']","['boulder', 'creek']"
+209,Boulder Creeks,1,1.0,0.00%,100.00%,0:00:09,0.0,placename|locational,placename,,placename,locational,,combined,boulder creeks,"['boulder', 'creeks']","['boulder', 'creek']"
+210,BOULDER FIRE STATIONS,1,1.0,0.00%,0.00%,0:00:05,1.0,placename|locational,placename|locational,,placename,locational,,combined,boulder fire stations,"['boulder', 'fire', 'stations']","['boulder', 'fire', 'station']"
+211,boulder forest,1,2.0,100.00%,0.00%,0:00:13,1.0,placename|locational,placename|locational,,placename,locational,,combined,boulder forest,"['boulder', 'forest']","['boulder', 'forest']"
+212,Boulder land use,1,1.0,0.00%,100.00%,0:00:21,3.0,placename|topical,placename|topical,,placename,topical,,combined,boulder land use,"['boulder', 'land', 'use']","['boulder', 'land', 'use']"
+213,boulder land-use,1,5.0,0.00%,20.00%,0:01:53,6.0,placename|topical,placename|topical,,placename,topical,,combined,boulder land-use,"['boulder', 'land-use']","['boulder', 'land-us']"
+214,boulder lidar,1,1.0,0.00%,100.00%,0:00:03,0.0,placename|datatype,placename|topical,,placename,datatype,,combined,boulder lidar,"['boulder', 'lidar']","['boulder', 'lidar']"
+215,boulder roads,2,1.0,0.00%,50.00%,0:03:17,1.0,placename|locational,placename|locational,,placename,locational,,combined,boulder roads,"['boulder', 'roads']","['boulder', 'road']"
+216,boulder rock formation,1,1.0,0.00%,100.00%,0:00:08,0.0,placename|topical,placename|topical,,placename,topical,,combined,boulder rock formation,"['boulder', 'rock', 'formation']","['boulder', 'rock', 'format']"
+217,Boulder streams,1,2.0,0.00%,50.00%,0:00:54,1.0,placename|locational,placename|locational,,placename,locational,,combined,boulder streams,"['boulder', 'streams']","['boulder', 'stream']"
+218,boulder topography,1,3.0,0.00%,66.67%,0:00:13,1.0,placename|datatype,placename|locational,,placename,datatype,,combined,boulder topography,"['boulder', 'topography']","['boulder', 'topographi']"
+219,"boulder, co",2,1.0,50.00%,50.00%,0:00:06,0.5,placename,placename,,placename,,,single,"boulder, co","['boulder', ',', 'co']","['boulder', ',', 'co']"
+220,"Boulder, Colorado",1,5.0,0.00%,20.00%,0:09:58,2.0,placename,placename,,placename,,,single,"boulder, colorado","['boulder', ',', 'colorado']","['boulder', ',', 'colorado']"
+221,buildings in boulder,1,1.0,0.00%,0.00%,0:00:49,1.0,placename|locational,placename|locational,,placename,locational,,combined,buildings in boulder,"['buildings', 'in', 'boulder']","['build', 'in', 'boulder']"
+222,Chernobyl,1,1.0,0.00%,0.00%,0:51:22,19.0,placename,placename,,placename,,,single,chernobyl,['chernobyl'],['chernobyl']
+223,china,3,1.67,0.00%,40.00%,0:01:06,2.67,placename,placename,,placename,,,single,china,['china'],['china']
+224,coal creek,1,1.0,0.00%,100.00%,0:00:08,0.0,placename,placename,,placename,,,single,coal creek,"['coal', 'creek']","['coal', 'creek']"
+225,colorado,17,5.71,35.29%,1.03%,0:06:33,2.29,placename,placename,,placename,,,single,colorado,['colorado'],['colorado']
+226,Colorado,3,3.33,0.00%,0.00%,0:05:30,3.67,placename,placename,,placename,,,single,colorado,['colorado'],['colorado']
+227,COLORADO,1,7.0,0.00%,0.00%,0:01:12,6.0,placename,placename,,placename,,,single,colorado,['colorado'],['colorado']
+228,colorado cities,1,1.0,0.00%,0.00%,0:00:02,1.0,placename|locational,locational,,placename,locational,,combined,colorado cities,"['colorado', 'cities']","['colorado', 'citi']"
+229,Colorado cities,1,2.0,0.00%,100.00%,0:01:09,3.0,placename|locational,locational,,placename,locational,,combined,colorado cities,"['colorado', 'cities']","['colorado', 'citi']"
+230,colorado counties,3,1.67,0.00%,60.00%,0:01:02,1.0,placename|locational,locational,,placename,locational,,combined,colorado counties,"['colorado', 'counties']","['colorado', 'counti']"
+231,colorado county,1,3.0,100.00%,0.00%,0:00:24,2.0,placename|locational,locational,,placename,locational,,combined,colorado county,"['colorado', 'county']","['colorado', 'counti']"
+232,colorado dams,1,1.0,0.00%,100.00%,0:00:06,0.0,placename|locational,locational,,placename,locational,,combined,colorado dams,"['colorado', 'dams']","['colorado', 'dam']"
+233,colorado geologic map,1,1.0,0.00%,0.00%,0:00:06,1.0,placename|datatype,datatype,,placename,datatype,,combined,colorado geologic map,"['colorado', 'geologic', 'map']","['colorado', 'geolog', 'map']"
+234,Colorado Geology,2,1.0,0.00%,0.00%,0:00:05,1.0,placename|topical,placename|topical,,placename,topical,,combined,colorado geology,"['colorado', 'geology']","['colorado', 'geolog']"
+235,colorado geology,1,1.0,0.00%,0.00%,0:00:03,1.0,placename|topical,placename|topical,,placename,topical,,combined,colorado geology,"['colorado', 'geology']","['colorado', 'geolog']"
+236,colorado houses,1,2.0,0.00%,50.00%,0:01:30,3.0,placename|locational,locational,,placename,locational,,combined,colorado houses,"['colorado', 'houses']","['colorado', 'hous']"
+237,Colorado Hwy 285,1,1.0,0.00%,100.00%,0:02:12,3.0,placename,placename,,placename,,,single,colorado hwy 285,"['colorado', 'hwy', '285']","['colorado', 'hwi', '285']"
+238,Colorado land owndership,1,1.0,0.00%,100.00%,0:00:12,0.0,placename|topical,locational,,placename,topical,,combined,colorado land owndership,"['colorado', 'land', 'owndership']","['colorado', 'land', 'owndership']"
+239,Colorado land types,1,3.0,0.00%,66.67%,0:09:08,2.0,placename|topical,topical,,placename,topical,,combined,colorado land types,"['colorado', 'land', 'types']","['colorado', 'land', 'type']"
+240,Colorado land use type,1,1.0,0.00%,100.00%,0:00:13,0.0,placename|topical,topical,,placename,topical,,combined,colorado land use type,"['colorado', 'land', 'use', 'type']","['colorado', 'land', 'use', 'type']"
+241,Colorado major cities,1,2.0,0.00%,100.00%,0:14:59,2.0,placename|locational,locational,,placename,locational,,combined,colorado major cities,"['colorado', 'major', 'cities']","['colorado', 'major', 'citi']"
+242,colorado Mining Claims,1,1.0,0.00%,0.00%,0:04:01,2.0,placename|locational,locational,,placename,locational,,combined,colorado mining claims,"['colorado', 'mining', 'claims']","['colorado', 'mine', 'claim']"
+243,colorado reservoir levels,1,2.0,0.00%,50.00%,0:00:19,1.0,placename|topical,topical,,placename,topical,,combined,colorado reservoir levels,"['colorado', 'reservoir', 'levels']","['colorado', 'reservoir', 'level']"
+244,colorado reservoirs,1,1.0,0.00%,100.00%,0:00:15,0.0,placename|locational,locational,,placename,locational,,combined,colorado reservoirs,"['colorado', 'reservoirs']","['colorado', 'reservoir']"
+245,Colorado river,2,2.5,0.00%,40.00%,0:01:06,3.0,placename,placename,,placename,,,single,colorado river,"['colorado', 'river']","['colorado', 'river']"
+246,Colorado River basin,1,1.0,0.00%,100.00%,0:06:42,0.0,placename,placename,,placename,,,single,colorado river basin,"['colorado', 'river', 'basin']","['colorado', 'river', 'basin']"
+247,Colorado River reservoirs,1,1.0,0.00%,100.00%,0:00:11,0.0,placename|locational,locational,,placename,locational,,combined,colorado river reservoirs,"['colorado', 'river', 'reservoirs']","['colorado', 'river', 'reservoir']"
+248,Colorado River reservoirs levels,1,1.0,0.00%,100.00%,0:00:33,1.0,placename|topical,topical,,placename,topical,,combined,colorado river reservoirs levels,"['colorado', 'river', 'reservoirs', 'levels']","['colorado', 'river', 'reservoir', 'level']"
+249,Colorado roads,1,2.0,0.00%,50.00%,0:01:50,5.0,placename|locational,locational,,placename,locational,,combined,colorado roads,"['colorado', 'roads']","['colorado', 'road']"
+250,colorado satelite,1,2.0,0.00%,100.00%,0:00:11,0.0,placename|datatype,topical,,placename,datatype,,combined,colorado satelite,"['colorado', 'satelite']","['colorado', 'satelit']"
+251,colorado satellite,1,1.0,0.00%,100.00%,0:00:09,0.0,placename|datatype,topical,,placename,datatype,,combined,colorado satellite,"['colorado', 'satellite']","['colorado', 'satellit']"
+252,Colorado secondary roads,1,1.0,0.00%,100.00%,0:00:05,0.0,placename|locational,locational,,placename,locational,,combined,colorado secondary roads,"['colorado', 'secondary', 'roads']","['colorado', 'secondari', 'road']"
+253,colorado springs,1,1.0,0.00%,100.00%,0:00:11,1.0,placename,placename,,placename,,,single,colorado springs,"['colorado', 'springs']","['colorado', 'spring']"
+254,colorado state,1,2.0,0.00%,50.00%,0:02:50,2.0,placename,placename,,placename,,,single,colorado state,"['colorado', 'state']","['colorado', 'state']"
+255,Colorado stream access,1,1.0,0.00%,100.00%,0:00:07,0.0,placename|locational,locational,,placename,locational,,combined,colorado stream access,"['colorado', 'stream', 'access']","['colorado', 'stream', 'access']"
+256,Colorado streams,2,2.0,0.00%,25.00%,0:05:18,4.5,placename|locational,locational,,placename,locational,,combined,colorado streams,"['colorado', 'streams']","['colorado', 'stream']"
+257,colorado streams,1,1.0,0.00%,100.00%,0:00:05,0.0,placename|locational,locational,,placename,locational,,combined,colorado streams,"['colorado', 'streams']","['colorado', 'stream']"
+258,Colorado Streams,1,1.0,0.00%,0.00%,0:02:17,1.0,placename|locational,locational,,placename,locational,,combined,colorado streams,"['colorado', 'streams']","['colorado', 'stream']"
+259,colorado trail,1,1.0,0.00%,0.00%,0:00:06,1.0,placename,placename,,placename,,,single,colorado trail,"['colorado', 'trail']","['colorado', 'trail']"
+260,Colorado trail,1,1.0,0.00%,0.00%,0:00:34,1.0,placename,placename,,placename,,,single,colorado trail,"['colorado', 'trail']","['colorado', 'trail']"
+261,colorado triassic,1,1.0,0.00%,100.00%,0:00:12,0.0,placename|topical,topical,,placename,topical,,combined,colorado triassic,"['colorado', 'triassic']","['colorado', 'triassic']"
+262,colorado triassic age,1,1.0,0.00%,100.00%,0:00:05,0.0,placename|topical,topical,,placename,topical,,combined,colorado triassic age,"['colorado', 'triassic', 'age']","['colorado', 'triassic', 'age']"
+263,colorado usa,1,1.0,0.00%,0.00%,0:00:04,2.0,placename,placename,,placename,,,single,colorado usa,"['colorado', 'usa']","['colorado', 'usa']"
+264,colorado water,1,6.0,0.00%,0.00%,0:05:31,3.0,placename|locational,locational,,placename,locational,,combined,colorado water,"['colorado', 'water']","['colorado', 'water']"
+265,Coloradocounties,1,1.0,0.00%,100.00%,0:00:05,0.0,placename|locational,locational,,placename,locational,,combined,coloradocounties,['coloradocounties'],['coloradocounti']
+266,ColoradoWater basin,1,2.0,0.00%,100.00%,0:00:06,0.0,placename|locational,locational,,placename,locational,,combined,coloradowater basin,"['coloradowater', 'basin']","['coloradowat', 'basin']"
+267,coloraod reservoirs,1,1.0,0.00%,100.00%,0:00:06,0.0,placename|locational,locational,,placename,locational,,combined,coloraod reservoirs,"['coloraod', 'reservoirs']","['coloraod', 'reservoir']"
+268,Coloraod roads,1,1.0,0.00%,100.00%,0:00:08,0.0,placename|locational,locational,,placename,locational,,combined,coloraod roads,"['coloraod', 'roads']","['coloraod', 'road']"
+269,colroado rocky mountains,1,2.0,0.00%,100.00%,0:01:24,6.0,placename,placename,,placename,,,single,colroado rocky mountains,"['colroado', 'rocky', 'mountains']","['colroado', 'rocki', 'mountain']"
+270,Continental divide,1,2.0,0.00%,0.00%,0:03:04,9.0,placename,placename,,placename,,,single,continental divide,"['continental', 'divide']","['continent', 'divid']"
+271,CU,1,1.0,0.00%,100.00%,0:06:18,7.0,placename,placename,,placename,,,single,cu,['cu'],['cu']
+272,CU Boulder,1,1.0,0.00%,100.00%,0:00:05,0.0,placename,placename,,placename,,,single,cu boulder,"['cu', 'boulder']","['cu', 'boulder']"
+273,denver,3,1.67,66.67%,40.00%,0:00:14,0.33,placename,placename,,placename,,,single,denver,['denver'],['denver']
+274,Denver,2,1.5,50.00%,0.00%,0:01:36,3.0,placename,placename,,placename,,,single,denver,['denver'],['denver']
+275,denver topogrpahy,1,1.0,100.00%,0.00%,0:00:00,0.0,placename|datatype,topical,,placename,datatype,,combined,denver topogrpahy,"['denver', 'topogrpahy']","['denver', 'topogrpahi']"
+276,Elyria Swansea,1,1.0,0.00%,0.00%,0:01:00,3.0,placename,placename,,placename,,,single,elyria swansea,"['elyria', 'swansea']","['elyria', 'swansea']"
+277,estes,1,1.0,0.00%,100.00%,0:00:34,0.0,placename,placename,,placename,,,single,estes,['estes'],['est']
+278,fancy lake,1,1.0,0.00%,0.00%,0:00:17,2.0,placename,placename,,placename,,,single,fancy lake,"['fancy', 'lake']","['fanci', 'lake']"
+279,florida,1,1.0,0.00%,100.00%,0:00:02,0.0,placename,placename,,placename,,,single,florida,['florida'],['florida']
+280,Flying J Ranch,1,2.0,0.00%,50.00%,0:00:13,0.0,placename,placename,,placename,,,single,flying j ranch,"['flying', 'j', 'ranch']","['fli', 'j', 'ranch']"
+281,"Flying J Ranch, Conifer",1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,"flying j ranch, conifer","['flying', 'j', 'ranch', ',', 'conifer']","['fli', 'j', 'ranch', ',', 'conif']"
+282,Georgia,1,1.0,0.00%,0.00%,0:03:03,18.0,placename,placename,,placename,,,single,georgia,['georgia'],['georgia']
+283,giplin county,1,2.0,100.00%,0.00%,0:00:05,0.0,placename,placename,,placename,,,single,giplin county,"['giplin', 'county']","['giplin', 'counti']"
+284,glenwood springs,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,glenwood springs,"['glenwood', 'springs']","['glenwood', 'spring']"
+285,golden,1,2.0,0.00%,50.00%,0:00:08,2.0,placename,placename,,placename,,,single,golden,['golden'],['golden']
+286,Grand Canyon,1,1.0,0.00%,0.00%,0:00:11,1.0,placename,placename,,placename,,,single,grand canyon,"['grand', 'canyon']","['grand', 'canyon']"
+287,grand county,1,1.0,0.00%,100.00%,0:00:05,0.0,placename,placename,,placename,,,single,grand county,"['grand', 'county']","['grand', 'counti']"
+288,gunnison river basin,1,3.0,0.00%,0.00%,0:30:11,3.0,placename,placename,,placename,,,single,gunnison river basin,"['gunnison', 'river', 'basin']","['gunnison', 'river', 'basin']"
+289,Haiti,1,2.0,100.00%,0.00%,0:00:03,0.0,placename,placename,,placename,,,single,haiti,['haiti'],['haiti']
+290,Hamburg,1,1.0,0.00%,0.00%,0:13:42,17.0,placename,placename,,placename,,,single,hamburg,['hamburg'],['hamburg']
+291,"Hamburg, Michigan",1,1.0,0.00%,100.00%,0:00:06,1.0,placename,placename,,placename,,,single,"hamburg, michigan","['hamburg', ',', 'michigan']","['hamburg', ',', 'michigan']"
+292,hong kong,2,1.5,0.00%,66.67%,0:00:05,0.5,placename,placename,,placename,,,single,hong kong,"['hong', 'kong']","['hong', 'kong']"
+293,Hwy 285 historical map,1,1.0,0.00%,100.00%,0:00:15,1.0,placename|format,placename,,placename,format,,combined,hwy 285 historical map,"['hwy', '285', 'historical', 'map']","['hwi', '285', 'histor', 'map']"
+294,Hwy 285 map,1,1.0,0.00%,100.00%,0:00:15,1.0,placename|format,placename,,placename,format,,combined,hwy 285 map,"['hwy', '285', 'map']","['hwi', '285', 'map']"
+295,iceland,1,1.0,0.00%,0.00%,0:00:09,1.0,placename,placename,,placename,,,single,iceland,['iceland'],['iceland']
+296,iran,1,1.0,0.00%,100.00%,0:00:23,1.0,placename,placename,,placename,,,single,iran,['iran'],['iran']
+297,jefferson county,1,2.0,0.00%,0.00%,0:00:41,3.0,placename,placename,,placename,,,single,jefferson county,"['jefferson', 'county']","['jefferson', 'counti']"
+298,lake powell,1,1.0,0.00%,100.00%,0:00:08,1.0,placename,placename,,placename,,,single,lake powell,"['lake', 'powell']","['lake', 'powel']"
+299,"lakewood, colorado",1,1.0,0.00%,100.00%,0:00:05,0.0,placename,placename,,placename,,,single,"lakewood, colorado","['lakewood', ',', 'colorado']","['lakewood', ',', 'colorado']"
+300,land types of Colorado,1,1.0,0.00%,100.00%,0:00:44,0.0,placename|topical,topical,,placename,topical,,combined,land types of colorado,"['land', 'types', 'of', 'colorado']","['land', 'type', 'of', 'colorado']"
+301,larimer county,2,1.0,0.00%,50.00%,0:01:32,4.0,placename,placename,,placename,,,single,larimer county,"['larimer', 'county']","['larim', 'counti']"
+302,larimer county colorado,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,larimer county colorado,"['larimer', 'county', 'colorado']","['larim', 'counti', 'colorado']"
+303,Las Vegas,1,1.0,0.00%,100.00%,0:00:06,0.0,placename,placename,,placename,,,single,las vegas,"['las', 'vegas']","['la', 'vega']"
+304,"leadville, CO",1,1.0,0.00%,0.00%,0:00:16,2.0,placename,placename,,placename,,,single,"leadville, co","['leadville', ',', 'co']","['leadvil', ',', 'co']"
+305,longmount,1,2.0,0.00%,50.00%,0:00:09,1.0,placename,placename,,placename,,,single,longmount,['longmount'],['longmount']
+306,louisana,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,louisana,['louisana'],['louisana']
+307,Loveland,1,1.0,0.00%,0.00%,0:00:02,1.0,placename,placename,,placename,,,single,loveland,['loveland'],['loveland']
+308,Lubbock TX,1,1.0,0.00%,100.00%,0:00:20,1.0,placename,placename,,placename,,,single,lubbock tx,"['lubbock', 'tx']","['lubbock', 'tx']"
+309,Mancos,1,1.0,0.00%,100.00%,0:00:37,1.0,placename,placename,,placename,,,single,mancos,['mancos'],['manco']
+310,"Mancos, CO",1,1.0,0.00%,100.00%,0:00:16,1.0,placename,placename,,placename,,,single,"mancos, co","['mancos', ',', 'co']","['manco', ',', 'co']"
+311,mars,1,1.0,0.00%,0.00%,0:02:05,12.0,placename,placename,,placename,,,single,mars,['mars'],['mar']
+312,mcbroom ditch,1,1.0,0.00%,100.00%,0:00:10,1.0,placename,placename,,placename,,,single,mcbroom ditch,"['mcbroom', 'ditch']","['mcbroom', 'ditch']"
+313,mesa colorado,1,1.0,0.00%,100.00%,0:00:12,1.0,placename,placename,,placename,,,single,mesa colorado,"['mesa', 'colorado']","['mesa', 'colorado']"
+314,Mesa Verde,1,1.0,0.00%,0.00%,0:09:02,46.0,placename,placename,,placename,,,single,mesa verde,"['mesa', 'verde']","['mesa', 'verd']"
+315,"mesa, co",1,1.0,0.00%,0.00%,0:02:31,7.0,placename,placename,,placename,,,single,"mesa, co","['mesa', ',', 'co']","['mesa', ',', 'co']"
+316,mines colorado,1,1.0,0.00%,0.00%,0:00:05,1.0,placename|locational,locational,,placename,locational,,combined,mines colorado,"['mines', 'colorado']","['mine', 'colorado']"
+317,monument co,1,2.0,0.00%,50.00%,0:00:17,2.0,placename,placename,,placename,,,single,monument co,"['monument', 'co']","['monument', 'co']"
+318,mt. saint helens,1,1.0,0.00%,100.00%,0:00:14,1.0,placename,placename,,placename,,,single,mt. saint helens,"['mt', '.', 'saint', 'helens']","['mt', '.', 'saint', 'helen']"
+319,nebraska streams,1,2.0,0.00%,0.00%,0:26:54,5.0,placename|locational,locational,,placename,locational,,combined,nebraska streams,"['nebraska', 'streams']","['nebraska', 'stream']"
+320,nederland,1,1.0,0.00%,0.00%,0:01:27,4.0,placename,placename,,placename,,,single,nederland,['nederland'],['nederland']
+321,nepal,2,1.0,50.00%,50.00%,0:00:12,2.5,placename,placename,,placename,,,single,nepal,['nepal'],['nepal']
+322,nevada,1,1.0,0.00%,0.00%,0:00:09,1.0,placename,placename,,placename,,,single,nevada,['nevada'],['nevada']
+323,odessa lake,1,1.0,0.00%,100.00%,0:01:07,3.0,placename,placename,,placename,,,single,odessa lake,"['odessa', 'lake']","['odessa', 'lake']"
+324,oregon state,1,1.0,0.00%,100.00%,0:00:17,0.0,placename,placename,,placename,,,single,oregon state,"['oregon', 'state']","['oregon', 'state']"
+325,ouarzazte,1,1.0,0.00%,0.00%,0:00:22,3.0,placename,,,placename,,,single,ouarzazte,['ouarzazte'],['ouarzazt']
+326,pachitea,1,1.0,0.00%,0.00%,0:00:01,1.0,placename,,,placename,,,single,pachitea,['pachitea'],['pachitea']
+327,PACIFIC OCEAN,1,2.0,0.00%,50.00%,0:00:27,3.0,placename,placename,,placename,,,single,pacific ocean,"['pacific', 'ocean']","['pacif', 'ocean']"
+328,petersburg colorado,1,1.0,0.00%,100.00%,0:00:06,0.0,placename,placename,,placename,,,single,petersburg colorado,"['petersburg', 'colorado']","['petersburg', 'colorado']"
+329,phoenix az,1,2.0,0.00%,50.00%,0:00:17,1.0,placename,placename,,placename,,,single,phoenix az,"['phoenix', 'az']","['phoenix', 'az']"
+330,Pike San Isabel National Forest,1,1.0,0.00%,100.00%,0:00:02,0.0,placename,placename,,placename,,,single,pike san isabel national forest,"['pike', 'san', 'isabel', 'national', 'forest']","['pike', 'san', 'isabel', 'nation', 'forest']"
+331,Pike San Isabell National Forest,1,1.0,0.00%,0.00%,0:39:29,43.0,placename,placename,,placename,,,single,pike san isabell national forest,"['pike', 'san', 'isabell', 'national', 'forest']","['pike', 'san', 'isabel', 'nation', 'forest']"
+332,pitkin,1,4.0,100.00%,0.00%,0:02:51,2.0,placename,placename,,placename,,,single,pitkin,['pitkin'],['pitkin']
+333,plutonium and new mexico,1,1.0,0.00%,0.00%,0:00:06,1.0,placename|topical,topical|placename,,placename,topical,,combined,plutonium and new mexico,"['plutonium', 'and', 'new', 'mexico']","['plutonium', 'and', 'new', 'mexico']"
+334,Puget Sound,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,puget sound,"['puget', 'sound']","['puget', 'sound']"
+335,Rio Grande Natural Area,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,rio grande natural area,"['rio', 'grande', 'natural', 'area']","['rio', 'grand', 'natur', 'area']"
+336,Rmnp,1,1.0,0.00%,100.00%,0:00:08,1.0,placename,placename,,placename,,,single,rmnp,['rmnp'],['rmnp']
+337,rocky mountain,1,1.0,0.00%,0.00%,0:06:31,20.0,placename,placename,,placename,,,single,rocky mountain,"['rocky', 'mountain']","['rocki', 'mountain']"
+338,Rocky mountain,1,1.0,0.00%,100.00%,0:00:08,0.0,placename,placename,,placename,,,single,rocky mountain,"['rocky', 'mountain']","['rocki', 'mountain']"
+339,Rocky Mountain National Park,1,1.0,0.00%,0.00%,0:04:15,22.0,placename,placename,,placename,,,single,rocky mountain national park,"['rocky', 'mountain', 'national', 'park']","['rocki', 'mountain', 'nation', 'park']"
+340,Rocky mountains,1,2.0,0.00%,50.00%,0:00:09,1.0,placename,placename,,placename,,,single,rocky mountains,"['rocky', 'mountains']","['rocki', 'mountain']"
+341,Rocky Point,1,1.0,0.00%,100.00%,0:00:06,0.0,placename,placename,,placename,,,single,rocky point,"['rocky', 'point']","['rocki', 'point']"
+342,San Isabel National Forest,1,2.0,0.00%,50.00%,0:01:14,37.0,placename,placename,,placename,,,single,san isabel national forest,"['san', 'isabel', 'national', 'forest']","['san', 'isabel', 'nation', 'forest']"
+343,san juan,1,2.0,0.00%,0.00%,0:01:02,5.0,placename,placename,,placename,,,single,san juan,"['san', 'juan']","['san', 'juan']"
+344,san juan river,1,1.0,0.00%,0.00%,0:00:33,1.0,placename,placename,,placename,,,single,san juan river,"['san', 'juan', 'river']","['san', 'juan', 'river']"
+345,sheridan colorado,2,1.0,0.00%,100.00%,0:00:10,0.0,placename,placename,,placename,,,single,sheridan colorado,"['sheridan', 'colorado']","['sheridan', 'colorado']"
+346,sitka,1,1.0,0.00%,100.00%,0:00:07,0.0,placename,placename,,placename,,,single,sitka,['sitka'],['sitka']
+347,skamania county,1,1.0,0.00%,100.00%,0:00:04,0.0,placename,placename,,placename,,,single,skamania county,"['skamania', 'county']","['skamania', 'counti']"
+348,Sudan,1,1.0,0.00%,100.00%,0:01:52,12.0,placename,placename,,placename,,,single,sudan,['sudan'],['sudan']
+349,taiwan,1,1.0,0.00%,0.00%,0:00:03,1.0,placename,placename,,placename,,,single,taiwan,['taiwan'],['taiwan']
+350,texas,2,1.5,0.00%,0.00%,0:11:19,2.0,placename,placename,,placename,,,single,texas,['texas'],['texa']
+351,triassic outcrops in colorado,1,1.0,0.00%,100.00%,0:00:31,0.0,placename|locational,topical,,placename,locational,,combined,triassic outcrops in colorado,"['triassic', 'outcrops', 'in', 'colorado']","['triassic', 'outcrop', 'in', 'colorado']"
+352,University of Colorado Boulder Campus Map,1,1.0,0.00%,0.00%,0:00:04,1.0,placename|format,placename,,placename,format,,combined,university of colorado boulder campus map,"['university', 'of', 'colorado', 'boulder', 'campus', 'map']","['univers', 'of', 'colorado', 'boulder', 'campu', 'map']"
+353,utah,1,1.0,0.00%,0.00%,0:00:16,2.0,placename,placename,,placename,,,single,utah,['utah'],['utah']
+354,utah basemap,1,1.0,0.00%,100.00%,0:00:04,0.0,placename|datatype,placename,,placename,datatype,,combined,utah basemap,"['utah', 'basemap']","['utah', 'basemap']"
+355,WA City shape border file,1,1.0,0.00%,0.00%,0:00:45,2.0,placename|datatype,placename|datatype,,placename,datatype,,combined,wa city shape border file,"['wa', 'city', 'shape', 'border', 'file']","['wa', 'citi', 'shape', 'border', 'file']"
+356,WA City shape border file\,1,1.0,0.00%,100.00%,0:00:03,0.0,placename|datatype,placename|datatype,,placename,datatype,,combined,wa city shape border file\,"['wa', 'city', 'shape', 'border', 'file\\']","['wa', 'citi', 'shape', 'border', 'file\\']"
+357,washington,2,2.5,50.00%,0.00%,0:00:45,1.5,placename,placename,,placename,,,single,washington,['washington'],['washington']
+358,Washington State Water,1,1.0,0.00%,100.00%,0:00:04,0.0,placename|locational,locational,,placename,locational,,combined,washington state water,"['washington', 'state', 'water']","['washington', 'state', 'water']"
+359,Washington State Waterway,1,1.0,0.00%,100.00%,0:00:03,0.0,placename|locational,locational,,placename,locational,,combined,washington state waterway,"['washington', 'state', 'waterway']","['washington', 'state', 'waterway']"
+360,Washington State Waterways,1,1.0,0.00%,100.00%,0:00:04,0.0,placename|locational,locational,,placename,locational,,combined,washington state waterways,"['washington', 'state', 'waterways']","['washington', 'state', 'waterway']"
+361,Washington Water,1,1.0,0.00%,100.00%,0:00:04,0.0,placename|locational,locational,,placename,locational,,combined,washington water,"['washington', 'water']","['washington', 'water']"
+362,weld county colorado,1,1.0,0.00%,0.00%,0:00:02,1.0,placename,placename,,placename,,,single,weld county colorado,"['weld', 'county', 'colorado']","['weld', 'counti', 'colorado']"
+363,wyoming,1,1.0,100.00%,0.00%,0:00:00,0.0,placename,placename,,placename,,,single,wyoming,['wyoming'],['wyom']
+364,Yellowstone,3,1.0,0.00%,33.33%,0:02:32,15.0,placename,placename,,placename,,,single,yellowstone,['yellowstone'],['yellowston']
+365,Blm roads,1,1.0,0.00%,100.00%,0:00:05,0.0,publication,publication,,publication,,,single,blm roads,"['blm', 'roads']","['blm', 'road']"
+366,census 2010,2,2.0,0.00%,50.00%,0:07:56,1.0,publication,publication,,publication,,,single,census 2010,"['census', '2010']","['censu', '2010']"
+367,Census 2010,2,1.0,0.00%,50.00%,0:00:13,0.5,publication,publication,,publication,,,single,census 2010,"['census', '2010']","['censu', '2010']"
+368,"Census 2010, Colorado, Current Census Tracked (2017 revision)",1,1.0,0.00%,0.00%,0:00:05,1.0,publication,publication,,publication,,,single,"census 2010, colorado, current census tracked 2017 revision","['census', '2010', ',', 'colorado', ',', 'current', 'census', 'tracked', '2017', 'revision']","['censu', '2010', ',', 'colorado', ',', 'current', 'censu', 'track', '2017', 'revis']"
+369,"Census 2010, Colorado, Current Census Tract",1,1.0,0.00%,0.00%,0:00:07,1.0,publication,publication,,publication,,,single,"census 2010, colorado, current census tract","['census', '2010', ',', 'colorado', ',', 'current', 'census', 'tract']","['censu', '2010', ',', 'colorado', ',', 'current', 'censu', 'tract']"
+370,"Census 2010, Colorado, Current Census Tract (2017 revision)",3,1.0,0.00%,0.00%,0:00:07,1.0,publication,publication,,publication,,,single,"census 2010, colorado, current census tract 2017 revision","['census', '2010', ',', 'colorado', ',', 'current', 'census', 'tract', '2017', 'revision']","['censu', '2010', ',', 'colorado', ',', 'current', 'censu', 'tract', '2017', 'revis']"
+371,"census 2010, colorado, current census tract (2017 revision)",1,1.0,0.00%,100.00%,0:05:39,2.0,publication,publication,,publication,,,single,"census 2010, colorado, current census tract 2017 revision","['census', '2010', ',', 'colorado', ',', 'current', 'census', 'tract', '2017', 'revision']","['censu', '2010', ',', 'colorado', ',', 'current', 'censu', 'tract', '2017', 'revis']"
+372,"census 2010, Colorado, Current Census Tract (2017 revision)",1,1.0,0.00%,0.00%,0:00:05,1.0,publication,publication,,publication,,,single,"census 2010, colorado, current census tract 2017 revision","['census', '2010', ',', 'colorado', ',', 'current', 'census', 'tract', '2017', 'revision']","['censu', '2010', ',', 'colorado', ',', 'current', 'censu', 'tract', '2017', 'revis']"
+373,"census 2010, colorado, current census tract 2017",1,1.0,0.00%,0.00%,0:00:59,1.0,publication,publication,,publication,,,single,"census 2010, colorado, current census tract 2017","['census', '2010', ',', 'colorado', ',', 'current', 'census', 'tract', '2017']","['censu', '2010', ',', 'colorado', ',', 'current', 'censu', 'tract', '2017']"
+374,"Census 2012, Colorado, Current Census Tracked (2017 revision)",1,1.0,0.00%,100.00%,0:00:06,0.0,publication,publication,,publication,,,single,"census 2012, colorado, current census tracked 2017 revision","['census', '2012', ',', 'colorado', ',', 'current', 'census', 'tracked', '2017', 'revision']","['censu', '2012', ',', 'colorado', ',', 'current', 'censu', 'track', '2017', 'revis']"
+375,census data,1,2.0,0.00%,100.00%,0:00:06,0.0,publication,topical,,publication,,,single,census data,"['census', 'data']","['censu', 'data']"
+376,census tract shapefile,1,1.0,0.00%,100.00%,0:00:54,2.0,publication|format,datatype,,publication,format,,combined,census tract shapefile,"['census', 'tract', 'shapefile']","['censu', 'tract', 'shapefil']"
+377,census tracts,4,2.0,0.00%,37.50%,0:00:27,1.25,publication,publication,,publication,,,single,census tracts,"['census', 'tracts']","['censu', 'tract']"
+378,colorado dola - water and sanitation districts,1,2.0,0.00%,50.00%,0:01:56,1.0,publication,locational,,publication,,,single,colorado dola - water and sanitation districts,"['colorado', 'dola', '-', 'water', 'and', 'sanitation', 'districts']","['colorado', 'dola', '-', 'water', 'and', 'sanit', 'district']"
+379,colorado DOLA - water and sanitation districts,1,1.0,0.00%,100.00%,0:04:09,2.0,publication,locational,,publication,,,single,colorado dola - water and sanitation districts,"['colorado', 'dola', '-', 'water', 'and', 'sanitation', 'districts']","['colorado', 'dola', '-', 'water', 'and', 'sanit', 'district']"
+380,Colorado DOLA - Water and Sanitation Districts,1,2.0,0.00%,50.00%,0:04:39,1.0,publication,locational,,publication,,,single,colorado dola - water and sanitation districts,"['colorado', 'dola', '-', 'water', 'and', 'sanitation', 'districts']","['colorado', 'dola', '-', 'water', 'and', 'sanit', 'district']"
+381,Colorado DOLA- Water and Sanitation Districts,3,2.0,0.00%,50.00%,0:03:02,1.0,publication,locational,,publication,,,single,colorado dola- water and sanitation districts,"['colorado', 'dola-', 'water', 'and', 'sanitation', 'districts']","['colorado', 'dola-', 'water', 'and', 'sanit', 'district']"
+382,Colorado DOLA- water and sanitation districts,1,2.0,0.00%,50.00%,0:03:17,1.0,publication,locational,,publication,,,single,colorado dola- water and sanitation districts,"['colorado', 'dola-', 'water', 'and', 'sanitation', 'districts']","['colorado', 'dola-', 'water', 'and', 'sanit', 'district']"
+383,Colorado Geo library,1,1.0,0.00%,100.00%,0:00:02,0.0,publication,,,publication,,,single,colorado geo library,"['colorado', 'geo', 'library']","['colorado', 'geo', 'librari']"
+384,Colorado Geolibrary,1,2.0,0.00%,100.00%,0:00:54,1.0,publication,,,publication,,,single,colorado geolibrary,"['colorado', 'geolibrary']","['colorado', 'geolibrari']"
+385,cotrex,1,3.0,100.00%,33.33%,0:02:47,1.0,publication,organization,,publication,,,single,cotrex,['cotrex'],['cotrex']
+386,COTREX,1,1.0,100.00%,0.00%,0:00:00,0.0,publication,organization,,publication,,,single,cotrex,['cotrex'],['cotrex']
+387,Current Census Tract,1,1.0,0.00%,0.00%,0:00:03,1.0,publication,publication,,publication,,,single,current census tract,"['current', 'census', 'tract']","['current', 'censu', 'tract']"
+388,nlcd,1,2.0,0.00%,50.00%,0:00:30,1.0,publication,,,publication,,,single,nlcd,['nlcd'],['nlcd']
+389,zcta,1,1.0,0.00%,100.00%,0:00:03,0.0,publication,,,publication,,,single,zcta,['zcta'],['zcta']
+390,200 million years,1,1.0,100.00%,0.00%,0:00:00,0.0,topical,topical,,topical,,,single,200 million years,"['200', 'million', 'years']","['200', 'million', 'year']"
+391,accidents,1,1.0,0.00%,100.00%,0:00:06,0.0,topical,topical,,topical,,,single,accidents,['accidents'],['accid']
+392,agriculture,1,1.0,0.00%,0.00%,0:00:06,1.0,topical,topical,,topical,,,single,agriculture,['agriculture'],['agricultur']
+393,airport,1,3.0,0.00%,0.00%,0:00:31,3.0,topical,topical,,topical,,,single,airport,['airport'],['airport']
+394,aliens,1,1.0,0.00%,100.00%,0:00:22,1.0,topical,topical,,topical,,,single,aliens,['aliens'],['alien']
+395,apis mellifera,1,1.0,100.00%,0.00%,0:00:00,0.0,topical,topical,,topical,,,single,apis mellifera,"['apis', 'mellifera']","['api', 'mellifera']"
+396,apple,2,1.0,0.00%,100.00%,0:00:12,0.5,topical,topical,,topical,,,single,apple,['apple'],['appl']
+397,bald eagle,1,1.0,0.00%,100.00%,0:00:21,0.0,topical,topical,,topical,,,single,bald eagle,"['bald', 'eagle']","['bald', 'eagl']"
+398,bat,1,1.0,0.00%,100.00%,0:00:19,0.0,topical,topical,,topical,,,single,bat,['bat'],['bat']
+399,bear,5,1.8,0.00%,22.22%,0:07:20,7.4,topical,topical,,topical,,,single,bear,['bear'],['bear']
+400,Bear,1,1.0,0.00%,0.00%,0:01:53,3.0,topical,topical,,topical,,,single,bear,['bear'],['bear']
+401,bears,2,1.5,0.00%,33.33%,0:02:26,5.0,topical,topical,,topical,,,single,bears,['bears'],['bear']
+402,beer,1,1.0,0.00%,100.00%,0:00:04,1.0,topical,topical,,topical,,,single,beer,['beer'],['beer']
+403,bees,1,1.0,0.00%,100.00%,0:00:05,1.0,topical,topical,,topical,,,single,bees,['bees'],['bee']
+404,bicycle,1,2.0,0.00%,100.00%,0:00:07,0.0,topical,topical,,topical,,,single,bicycle,['bicycle'],['bicycl']
+405,bicycle ridership,1,2.0,0.00%,50.00%,0:00:03,1.0,topical,topical,,topical,,,single,bicycle ridership,"['bicycle', 'ridership']","['bicycl', 'ridership']"
+406,bison,2,1.0,0.00%,100.00%,0:00:08,0.0,topical,topical,,topical,,,single,bison,['bison'],['bison']
+407,black tailed prairie dog,1,1.0,0.00%,100.00%,0:00:21,1.0,topical,topical,,topical,,,single,black tailed prairie dog,"['black', 'tailed', 'prairie', 'dog']","['black', 'tail', 'prairi', 'dog']"
+408,blight,1,1.0,0.00%,100.00%,0:00:15,1.0,topical,topical,,topical,,,single,blight,['blight'],['blight']
+409,bllight,1,1.0,0.00%,100.00%,0:00:06,0.0,topical,topical,,topical,,,single,bllight,['bllight'],['bllight']
+410,building footprints,1,1.0,100.00%,0.00%,0:00:00,0.0,topical,topical,,topical,,,single,building footprints,"['building', 'footprints']","['build', 'footprint']"
+411,building height,1,1.0,0.00%,0.00%,0:03:40,2.0,topical,locational,,topical,,,single,building height,"['building', 'height']","['build', 'height']"
+412,buildings,8,3.88,25.00%,6.45%,0:06:04,2.88,topical,topical,,topical,,,single,buildings,['buildings'],['build']
+413,carbon,1,1.0,0.00%,100.00%,0:04:14,14.0,topical,topical,,topical,,,single,carbon,['carbon'],['carbon']
+414,caribou,2,1.0,0.00%,100.00%,0:00:45,0.0,topical,topical,,topical,,,single,caribou,['caribou'],['carib']
+415,cats,1,1.0,0.00%,100.00%,0:00:04,0.0,topical,topical,,topical,,,single,cats,['cats'],['cat']
+416,cattle mutilations,1,1.0,0.00%,100.00%,0:00:08,1.0,topical,topical,,topical,,,single,cattle mutilations,"['cattle', 'mutilations']","['cattl', 'mutil']"
+417,census block temperature in denver,1,1.0,0.00%,0.00%,0:01:30,4.0,topical|locational|placename,placename|publication,,topical,locational,placename,combined,census block temperature in denver,"['census', 'block', 'temperature', 'in', 'denver']","['censu', 'block', 'temperatur', 'in', 'denver']"
+418,Chronic wasting,1,1.0,0.00%,100.00%,0:00:08,0.0,topical,topical,,topical,,,single,chronic wasting,"['chronic', 'wasting']","['chronic', 'wast']"
+419,Climate,1,1.0,0.00%,100.00%,0:00:54,1.0,topical,topical,,topical,,,single,climate,['climate'],['climat']
+420,coal,3,1.0,33.33%,66.67%,0:00:03,0.0,topical,topical,,topical,,,single,coal,['coal'],['coal']
+421,commerial zoning,1,1.0,0.00%,100.00%,0:00:08,0.0,topical,topical,,topical,,,single,commerial zoning,"['commerial', 'zoning']","['commeri', 'zone']"
+422,conservation,1,5.0,0.00%,20.00%,0:04:43,4.0,topical,topical,,topical,,,single,conservation,['conservation'],['conserv']
+423,continental,1,1.0,0.00%,100.00%,0:00:11,0.0,topical,topical,,topical,,,single,continental,['continental'],['continent']
+424,cover,1,3.0,100.00%,0.00%,0:00:58,0.0,topical,topical,,topical,,,single,cover,['cover'],['cover']
+425,crane,1,1.0,0.00%,100.00%,0:00:23,0.0,topical,topical,,topical,,,single,crane,['crane'],['crane']
+426,Crimes,1,1.0,0.00%,100.00%,0:00:03,0.0,topical,topical,,topical,,,single,crimes,['crimes'],['crime']
+427,deer,2,2.0,50.00%,25.00%,0:00:14,0.5,topical,topical,,topical,,,single,deer,['deer'],['deer']
+428,deforestation,1,1.0,0.00%,0.00%,0:00:05,1.0,topical,topical,,topical,,,single,deforestation,['deforestation'],['deforest']
+429,dispersed,1,1.0,0.00%,0.00%,0:18:02,2.0,topical,topical,,topical,,,single,dispersed,['dispersed'],['dispers']
+430,dogs,1,2.0,0.00%,50.00%,0:00:52,1.0,topical,topical,,topical,,,single,dogs,['dogs'],['dog']
+431,eagle,3,1.67,33.33%,0.00%,0:05:30,1.67,topical,topical,,topical,,,single,eagle,['eagle'],['eagl']
+432,el chupacabra,1,1.0,0.00%,0.00%,0:00:07,1.0,topical,topical,,topical,,,single,el chupacabra,"['el', 'chupacabra']","['el', 'chupacabra']"
+433,election,1,1.0,100.00%,0.00%,0:00:00,0.0,topical,topical,,topical,,,single,election,['election'],['elect']
+434,falcon,1,1.0,0.00%,100.00%,0:00:29,0.0,topical,topical,,topical,,,single,falcon,['falcon'],['falcon']
+435,ferret,1,2.0,0.00%,50.00%,0:01:09,1.0,topical,topical,,topical,,,single,ferret,['ferret'],['ferret']
+436,fire,2,1.5,0.00%,66.67%,0:06:53,4.5,topical,topical,,topical,,,single,fire,['fire'],['fire']
+437,fireblight,1,1.0,0.00%,100.00%,0:00:06,0.0,topical,topical,,topical,,,single,fireblight,['fireblight'],['fireblight']
+438,fish,3,2.33,0.00%,42.86%,0:07:48,1.67,topical,topical,,topical,,,single,fish,['fish'],['fish']
+439,food,1,1.0,0.00%,0.00%,0:02:03,1.0,topical,topical,,topical,,,single,food,['food'],['food']
+440,fox,1,2.0,0.00%,50.00%,0:02:45,1.0,topical,topical,,topical,,,single,fox,['fox'],['fox']
+441,fracking,1,2.0,0.00%,50.00%,0:00:11,0.0,topical,locational,,topical,,,single,fracking,['fracking'],['frack']
+442,fraking,1,1.0,0.00%,100.00%,0:00:03,0.0,topical,locational,,topical,,,single,fraking,['fraking'],['frake']
+443,genealogy,1,1.0,0.00%,100.00%,0:00:03,0.0,topical,topical,,topical,,,single,genealogy,['genealogy'],['genealog']
+444,geography,1,1.0,0.00%,100.00%,0:00:04,0.0,topical,topical,,topical,,,single,geography,['geography'],['geographi']
+445,geolog*,1,1.0,0.00%,100.00%,0:00:13,0.0,topical,topical,,topical,,,single,geolog,['geolog'],['geolog']
+446,geologic,1,1.0,0.00%,0.00%,0:00:02,1.0,topical,topical,,topical,,,single,geologic,['geologic'],['geolog']
+447,geologt,1,1.0,0.00%,100.00%,0:00:08,0.0,topical,topical,,topical,,,single,geologt,['geologt'],['geologt']
+448,geology,8,1.25,0.00%,50.00%,0:00:24,0.62,topical,topical,,topical,,,single,geology,['geology'],['geolog']
+449,geology units,1,2.0,0.00%,0.00%,0:07:57,2.0,topical,topical,,topical,,,single,geology units,"['geology', 'units']","['geolog', 'unit']"
+450,goat,2,3.0,0.00%,16.67%,0:04:53,3.0,topical,topical,,topical,,,single,goat,['goat'],['goat']
+451,goats,2,1.5,0.00%,66.67%,0:16:42,2.0,topical,topical,,topical,,,single,goats,['goats'],['goat']
+452,Gold,1,1.0,100.00%,0.00%,0:00:00,0.0,topical,topical,,topical,,,single,gold,['gold'],['gold']
+453,groundsnake,1,1.0,0.00%,0.00%,0:26:56,3.0,topical,topical,,topical,,,single,groundsnake,['groundsnake'],['groundsnak']
+454,habitat,1,7.0,100.00%,14.29%,0:12:13,7.0,topical,topical,,topical,,,single,habitat,['habitat'],['habitat']
+455,hawk,1,1.0,0.00%,100.00%,0:00:14,0.0,topical,topical,,topical,,,single,hawk,['hawk'],['hawk']
+456,heron,1,2.0,0.00%,0.00%,0:00:57,3.0,topical,topical,,topical,,,single,heron,['heron'],['heron']
+457,hidrography,1,1.0,0.00%,100.00%,0:00:10,1.0,topical,topical,,topical,,,single,hidrography,['hidrography'],['hidrographi']
+458,human,1,1.0,100.00%,0.00%,0:00:00,0.0,topical,topical,,topical,,,single,human,['human'],['human']
+459,human footprint,1,1.0,0.00%,100.00%,0:00:38,2.0,topical,topical,,topical,,,single,human footprint,"['human', 'footprint']","['human', 'footprint']"
+460,human influence,1,1.0,0.00%,100.00%,0:00:06,1.0,topical,topical,,topical,,,single,human influence,"['human', 'influence']","['human', 'influenc']"
+461,hydrography,1,2.0,0.00%,50.00%,0:00:26,1.0,topical,topical,,topical,,,single,hydrography,['hydrography'],['hydrographi']
+462,hydrology,3,4.67,0.00%,28.57%,0:03:00,6.67,topical,topical,,topical,,,single,hydrology,['hydrology'],['hydrolog']
+463,ice,1,1.0,0.00%,0.00%,0:09:57,1.0,topical,topical,,topical,,,single,ice,['ice'],['ice']
+464,income,1,1.0,0.00%,0.00%,0:03:00,6.0,topical,topical,,topical,,,single,income,['income'],['incom']
+465,indangered species,1,1.0,0.00%,100.00%,0:01:21,4.0,topical,topical,,topical,,,single,indangered species,"['indangered', 'species']","['indang', 'speci']"
+466,indian,1,3.0,0.00%,33.33%,0:01:00,2.0,topical,topical,,topical,,,single,indian,['indian'],['indian']
+467,industrial,1,1.0,0.00%,100.00%,0:01:44,2.0,topical,topical,,topical,,,single,industrial,['industrial'],['industri']
+468,internet,1,1.0,0.00%,0.00%,0:00:15,2.0,topical,topical,,topical,,,single,internet,['internet'],['internet']
+469,invasive,1,1.0,0.00%,100.00%,0:00:04,0.0,topical,topical,,topical,,,single,invasive,['invasive'],['invas']
+470,irrigation,1,4.0,0.00%,0.00%,0:07:29,5.0,topical,topical,,topical,,,single,irrigation,['irrigation'],['irrig']
+471,irrigiation,1,1.0,0.00%,100.00%,0:00:06,0.0,topical,topical,,topical,,,single,irrigiation,['irrigiation'],['irrigi']
+472,kit fox,1,1.0,0.00%,0.00%,0:04:36,7.0,topical,placename,,topical,,,single,kit fox,"['kit', 'fox']","['kit', 'fox']"
+473,land,1,1.0,0.00%,0.00%,0:00:06,1.0,topical,topical,,topical,,,single,land,['land'],['land']
+474,land cover,3,1.67,33.33%,20.00%,0:00:19,1.0,topical,topical,,topical,,,single,land cover,"['land', 'cover']","['land', 'cover']"
+475,land use,1,1.0,0.00%,0.00%,0:00:44,2.0,topical,topical,,topical,,,single,land use,"['land', 'use']","['land', 'use']"
+476,landed,1,1.0,0.00%,0.00%,0:00:05,1.0,topical,topical,,topical,,,single,landed,['landed'],['land']
+477,landuse,1,1.0,0.00%,100.00%,0:00:02,0.0,topical,topical,,topical,,,single,landuse,['landuse'],['landus']
+478,lease,1,2.0,0.00%,50.00%,0:11:03,1.0,topical,topical,,topical,,,single,lease,['lease'],['leas']
+479,legislative,1,2.0,0.00%,50.00%,0:00:56,7.0,topical,topical,,topical,,,single,legislative,['legislative'],['legisl']
+480,legistlative,1,1.0,0.00%,100.00%,0:00:04,0.0,topical,topical,,topical,,,single,legistlative,['legistlative'],['legistl']
+481,lizard,1,1.0,0.00%,0.00%,0:00:36,1.0,topical,topical,,topical,,,single,lizard,['lizard'],['lizard']
+482,local,2,1.5,0.00%,33.33%,0:00:10,0.5,topical,topical,,topical,,,single,local,['local'],['local']
+483,lynx,1,5.0,0.00%,40.00%,0:04:30,1.0,topical,topical,,topical,,,single,lynx,['lynx'],['lynx']
+484,marijuana,1,1.0,0.00%,100.00%,0:00:06,0.0,topical,topical,,topical,,,single,marijuana,['marijuana'],['marijuana']
+485,metadata,1,2.0,0.00%,0.00%,0:04:05,5.0,topical,topical,,topical,,,single,metadata,['metadata'],['metadata']
+486,mice,1,1.0,0.00%,0.00%,0:00:03,1.0,topical,topical,,topical,,,single,mice,['mice'],['mice']
+487,migration,1,4.0,0.00%,0.00%,0:00:44,2.0,topical,topical,,topical,,,single,migration,['migration'],['migrat']
+488,mineral,1,1.0,0.00%,0.00%,0:00:07,1.0,topical,topical,,topical,,,single,mineral,['mineral'],['miner']
+489,minerals,1,3.0,0.00%,0.00%,0:01:05,4.0,topical,topical,,topical,,,single,minerals,['minerals'],['miner']
+490,mines,3,1.67,33.33%,40.00%,0:00:16,1.0,topical,locational,,topical,,,single,mines,['mines'],['mine']
+491,moose,3,1.33,0.00%,50.00%,0:01:22,2.67,topical,topical,,topical,,,single,moose,['moose'],['moos']
+492,mountain,1,1.0,0.00%,100.00%,0:00:22,0.0,topical,topical,,topical,,,single,mountain,['mountain'],['mountain']
+493,mountain goat,1,3.0,0.00%,33.33%,0:02:11,2.0,topical,topical,,topical,,,single,mountain goat,"['mountain', 'goat']","['mountain', 'goat']"
+494,Mountain Goat,1,1.0,0.00%,0.00%,0:04:40,3.0,topical,topical,,topical,,,single,mountain goat,"['mountain', 'goat']","['mountain', 'goat']"
+495,mountain lion,4,1.75,0.00%,14.29%,0:02:45,3.0,topical,topical,,topical,,,single,mountain lion,"['mountain', 'lion']","['mountain', 'lion']"
+496,mountain lions,1,1.0,0.00%,0.00%,0:00:06,1.0,topical,topical,,topical,,,single,mountain lions,"['mountain', 'lions']","['mountain', 'lion']"
+497,municipal,1,1.0,0.00%,100.00%,0:03:24,0.0,topical,topical,,topical,,,single,municipal,['municipal'],['municip']
+498,museum,1,1.0,0.00%,100.00%,0:11:17,58.0,topical,topical,,topical,,,single,museum,['museum'],['museum']
+499,native,1,2.0,100.00%,0.00%,0:00:19,1.0,topical,,,topical,,,single,native,['native'],['nativ']
+500,native american,1,2.0,0.00%,50.00%,0:00:57,1.0,topical,,,topical,,,single,native american,"['native', 'american']","['nativ', 'american']"
+501,native us,1,3.0,0.00%,66.67%,0:15:26,22.0,topical,,,topical,,,single,native us,"['native', 'us']","['nativ', 'us']"
+502,natural gas,1,2.0,0.00%,50.00%,0:01:38,1.0,topical,topical,,topical,,,single,natural gas,"['natural', 'gas']","['natur', 'ga']"
+503,nuclear,1,1.0,0.00%,100.00%,0:00:05,0.0,topical,topical,,topical,,,single,nuclear,['nuclear'],['nuclear']
+504,oil,9,1.78,22.22%,37.50%,0:01:06,0.89,topical,topical,,topical,,,single,oil,['oil'],['oil']
+505,otter,1,1.0,0.00%,0.00%,0:00:12,1.0,topical,topical,,topical,,,single,otter,['otter'],['otter']
+506,owl,1,1.0,0.00%,100.00%,0:00:16,0.0,topical,topical,,topical,,,single,owl,['owl'],['owl']
+507,petrolium systems,1,1.0,0.00%,0.00%,0:00:08,1.0,topical,topical,,topical,,,single,petrolium systems,"['petrolium', 'systems']","['petrolium', 'system']"
+508,pika,1,2.0,0.00%,100.00%,0:00:35,0.0,topical,topical,,topical,,,single,pika,['pika'],['pika']
+509,Pika,1,1.0,0.00%,100.00%,0:00:10,0.0,topical,topical,,topical,,,single,pika,['pika'],['pika']
+510,pike,1,1.0,0.00%,100.00%,0:06:23,0.0,topical,topical,,topical,,,single,pike,['pike'],['pike']
+511,pine,1,1.0,0.00%,0.00%,0:00:12,1.0,topical,topical,,topical,,,single,pine,['pine'],['pine']
+512,Police,1,3.0,0.00%,66.67%,0:00:27,0.0,topical,topical,,topical,,,single,police,['police'],['polic']
+513,pollution,1,2.0,100.00%,0.00%,0:00:28,1.0,topical,topical,,topical,,,single,pollution,['pollution'],['pollut']
+514,population,2,2.0,0.00%,25.00%,0:00:46,1.0,topical,topical,,topical,,,single,population,['population'],['popul']
+515,Population,1,4.0,100.00%,0.00%,0:08:55,1.0,topical,topical,,topical,,,single,population,['population'],['popul']
+516,Population density,2,1.5,100.00%,0.00%,0:00:31,0.5,topical,topical,,topical,,,single,population density,"['population', 'density']","['popul', 'densiti']"
+517,poverty,1,2.0,0.00%,0.00%,0:00:14,2.0,topical,topical,,topical,,,single,poverty,['poverty'],['poverti']
+518,quakes,1,1.0,0.00%,0.00%,0:00:04,1.0,topical,topical,,topical,,,single,quakes,['quakes'],['quak']
+519,radio,1,2.0,0.00%,0.00%,0:01:51,3.0,topical,topical,,topical,,,single,radio,['radio'],['radio']
+520,recreation,2,1.0,0.00%,50.00%,0:00:21,0.5,topical,topical,,topical,,,single,recreation,['recreation'],['recreat']
+521,ridership,2,1.5,0.00%,100.00%,0:00:08,0.0,topical,topical,,topical,,,single,ridership,['ridership'],['ridership']
+522,river miles,1,3.0,0.00%,0.00%,0:00:18,1.0,topical,topical|locational,,topical,,,single,river miles,"['river', 'miles']","['river', 'mile']"
+523,road kill,1,2.0,100.00%,50.00%,0:00:04,0.0,topical,topical,,topical,,,single,road kill,"['road', 'kill']","['road', 'kill']"
+524,roadkill,2,1.5,0.00%,100.00%,0:03:25,4.5,topical,topical,,topical,,,single,roadkill,['roadkill'],['roadkil']
+525,roads,17,1.35,23.53%,47.83%,0:01:35,1.18,topical,topical,,topical,,,single,roads,['roads'],['road']
+526,rock formation,1,1.0,100.00%,0.00%,0:00:00,0.0,topical,topical,,topical,,,single,rock formation,"['rock', 'formation']","['rock', 'format']"
+527,rods,1,1.0,0.00%,100.00%,0:00:07,0.0,topical,topical,,topical,,,single,rods,['rods'],['rod']
+528,russian olive tree,1,1.0,0.00%,0.00%,0:00:02,1.0,topical,topical,,topical,,,single,russian olive tree,"['russian', 'olive', 'tree']","['russian', 'oliv', 'tree']"
+529,russian olive trees,1,2.0,0.00%,50.00%,0:03:53,1.0,topical,topical,,topical,,,single,russian olive trees,"['russian', 'olive', 'trees']","['russian', 'oliv', 'tree']"
+530,services,1,3.0,100.00%,0.00%,0:00:22,2.0,topical,topical,,topical,,,single,services,['services'],['servic']
+531,sewer,1,1.0,0.00%,100.00%,0:00:03,0.0,topical,topical,,topical,,,single,sewer,['sewer'],['sewer']
+532,Shops,1,1.0,0.00%,100.00%,0:00:12,0.0,topical,topical,,topical,,,single,shops,['shops'],['shop']
+533,Snowpack levels,1,1.0,0.00%,100.00%,0:00:06,1.0,topical,topical,,topical,,,single,snowpack levels,"['snowpack', 'levels']","['snowpack', 'level']"
+534,soil,2,1.0,0.00%,50.00%,0:00:15,0.5,topical,topical,,topical,,,single,soil,['soil'],['soil']
+535,soils,1,1.0,0.00%,100.00%,0:01:37,0.0,topical,topical,,topical,,,single,soils,['soils'],['soil']
+536,species,1,1.0,0.00%,0.00%,0:00:02,1.0,topical,topical,,topical,,,single,species,['species'],['speci']
+537,squirrel,1,1.0,0.00%,0.00%,0:00:43,1.0,topical,topical,,topical,,,single,squirrel,['squirrel'],['squirrel']
+538,Statewide,1,2.0,0.00%,100.00%,0:01:07,3.0,topical,topical,,topical,,,single,statewide,['statewide'],['statewid']
+539,storm,1,1.0,0.00%,100.00%,0:00:08,0.0,topical,topical,,topical,,,single,storm,['storm'],['storm']
+540,Temperature,1,1.0,0.00%,0.00%,0:00:18,4.0,topical,topical,,topical,,,single,temperature,['temperature'],['temperatur']
+541,the great depression,1,2.0,0.00%,50.00%,0:00:10,2.0,topical,topical,,topical,,,single,the great depression,"['the', 'great', 'depression']","['the', 'great', 'depress']"
+542,the new deal,1,2.0,0.00%,50.00%,0:00:10,2.0,topical,topical,,topical,,,single,the new deal,"['the', 'new', 'deal']","['the', 'new', 'deal']"
+543,toad,1,2.0,0.00%,50.00%,0:27:33,1.0,topical,topical,,topical,,,single,toad,['toad'],['toad']
+544,toxic waste,1,2.0,0.00%,50.00%,0:00:09,1.0,topical,topical,,topical,,,single,toxic waste,"['toxic', 'waste']","['toxic', 'wast']"
+545,transportation,1,1.0,0.00%,100.00%,0:00:07,0.0,topical,topical,,topical,,,single,transportation,['transportation'],['transport']
+546,tree,3,2.33,0.00%,14.29%,0:03:52,3.33,topical,topical,,topical,,,single,tree,['tree'],['tree']
+547,trees,5,2.2,20.00%,63.64%,0:01:46,1.6,topical,topical,,topical,,,single,trees,['trees'],['tree']
+548,trees river,1,1.0,0.00%,100.00%,0:00:05,0.0,topical,topical,,topical,,,single,trees river,"['trees', 'river']","['tree', 'river']"
+549,triassic,1,1.0,0.00%,100.00%,0:00:08,0.0,topical,topical,,topical,,,single,triassic,['triassic'],['triassic']
+550,trout,3,1.33,33.33%,50.00%,0:00:15,1.33,topical,topical,,topical,,,single,trout,['trout'],['trout']
+551,uranium,1,2.0,0.00%,50.00%,0:00:12,0.0,topical,topical,,topical,,,single,uranium,['uranium'],['uranium']
+552,ute,1,1.0,0.00%,100.00%,0:00:06,1.0,topical,topical,,topical,,,single,ute,['ute'],['ute']
+553,utility,1,2.0,0.00%,0.00%,0:00:14,1.0,topical,topical,,topical,,,single,utility,['utility'],['util']
+554,vegetation,3,1.0,33.33%,66.67%,0:05:17,0.0,topical,topical,,topical,,,single,vegetation,['vegetation'],['veget']
+555,voter,1,1.0,0.00%,100.00%,0:00:04,0.0,topical,topical,,topical,,,single,voter,['voter'],['voter']
+556,voting,2,1.5,0.00%,66.67%,0:00:13,1.0,topical,topical,,topical,,,single,voting,['voting'],['vote']
+557,water,13,2.46,7.69%,28.12%,0:03:58,2.38,topical,topical,,topical,,,single,water,['water'],['water']
+558,water use,1,4.0,0.00%,25.00%,0:01:03,1.0,topical,topical,,topical,,,single,water use,"['water', 'use']","['water', 'use']"
+559,wildlife,6,3.33,16.67%,10.00%,0:05:57,1.5,topical,topical,,topical,,,single,wildlife,['wildlife'],['wildlif']
+560,wine,1,1.0,0.00%,100.00%,0:03:29,1.0,topical,topical,,topical,,,single,wine,['wine'],['wine']
+561,wolf,1,2.0,100.00%,0.00%,0:00:58,0.0,topical,topical,,topical,,,single,wolf,['wolf'],['wolf']
+562,wolverine,1,2.0,0.00%,100.00%,0:01:25,0.0,topical,topical,,topical,,,single,wolverine,['wolverine'],['wolverin']
+563,9,1,1.0,100.00%,0.00%,0:00:00,0.0,unknown,,,unknown,,,single,9,['9'],['9']
+564,2000,1,1.0,0.00%,100.00%,0:00:12,1.0,unknown,,,unknown,,,single,2000,['2000'],['2000']
+565,cwd,1,1.0,0.00%,100.00%,0:00:07,0.0,unknown,unknown,,unknown,,,single,cwd,['cwd'],['cwd']
+566,rist,1,1.0,0.00%,0.00%,0:00:44,3.0,unknown,unknown,,unknown,,,single,rist,['rist'],['rist']
+567,tinney,1,2.0,0.00%,100.00%,0:00:14,1.0,unknown,unknown,,unknown,,,single,tinney,['tinney'],['tinney']
+568,trib,1,1.0,0.00%,100.00%,0:00:04,0.0,unknown,unknown,,unknown,,,single,trib,['trib'],['trib']
+569,whetzel,1,2.0,0.00%,0.00%,0:00:35,4.0,unknown,,,unknown,,,single,whetzel,['whetzel'],['whetzel']
